@@ -1,0 +1,238 @@
+{
+  "Dimapur": {
+    "title": "Dimapur, Nagaland",
+    "info": [
+      "Serves as the main commercial and economic hub of Nagaland.",
+      "It is the most populous and largest city in the state.",
+      "Home to the only airport and railway station in Nagaland, making it the primary gateway to the state.",
+      "Known for the ancient Dimasa Kachari Ruins, which include a series of mushroom-domed pillars.",
+      "The district has a diverse population from all over Nagaland and other parts of India."
+    ],
+    "tourist_places": [
+      {
+        "name": "Dimasa Kachari Ruins",
+        "location": "Dimapur, Nagaland",
+        "location_coords": {
+          "latitude": 25.9056,
+          "longitude": 93.7431
+        }
+      },
+      {
+        "name": "Diezephe Craft Village",
+        "location": "Near Dimapur, Nagaland",
+        "location_coords": {
+          "latitude": 25.836,
+          "longitude": 93.745
+        }
+      }
+    ]
+  },
+  "Kohima": {
+    "title": "Kohima, Nagaland",
+    "info": [
+      "The capital city of Nagaland.",
+      "Known for the historic Battle of Kohima during World War II, a crucial turning point in the war.",
+      "The Kohima War Cemetery honors the soldiers who lost their lives in the battle.",
+      "Hosts the famous Hornbill Festival at the Naga Heritage Village, Kisama.",
+      "Inhabited predominantly by the Angami and Rengma Naga tribes."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kohima War Cemetery",
+        "location": "Kohima, Nagaland",
+        "location_coords": {
+          "latitude": 25.6661,
+          "longitude": 94.1039
+        }
+      },
+      {
+        "name": "Naga Heritage Village, Kisama",
+        "location": "Near Kohima, Nagaland",
+        "location_coords": {
+          "latitude": 25.6083,
+          "longitude": 94.1017
+        }
+      }
+    ]
+  },
+  "Mokokchung": {
+    "title": "Mokokchung, Nagaland",
+    "info": [
+      "Considered the cultural and intellectual capital of Nagaland.",
+      "The district is predominantly inhabited by the Ao Naga tribe.",
+      "Mokokchung town is a major urban center in the state.",
+      "Villages like Mopungchuket and Longkhum are famous for their Ao legends and scenic beauty.",
+      "Christmas and New Year celebrations in Mokokchung town are renowned throughout the state."
+    ],
+    "tourist_places": [
+      {
+        "name": "Longkhum Village",
+        "location": "Near Mokokchung Town, Nagaland",
+        "location_coords": {
+          "latitude": 26.2625,
+          "longitude": 94.4442
+        }
+      }
+    ]
+  },
+  "Mon": {
+    "title": "Mon, Nagaland",
+    "info": [
+      "Known as the 'Land of the Anghs', the hereditary chiefs of the Konyak Naga tribe.",
+      "The Konyak tribe is famous for its history of headhunting, intricate facial tattoos, and traditional craftsmanship.",
+      "Longwa village is unique as the international border with Myanmar runs through the Angh's house.",
+      "The Aoleang festival, celebrated in April, is the biggest festival of the Konyak.",
+      "The district offers a deep insight into the traditional Naga way of life."
+    ],
+    "tourist_places": [
+      {
+        "name": "Longwa Village",
+        "location": "Mon, Nagaland",
+        "location_coords": {
+          "latitude": 26.7111,
+          "longitude": 95.3264
+        }
+      }
+    ]
+  },
+  "Phek": {
+    "title": "Phek, Nagaland",
+    "info": [
+      "The district headquarters is Phek town.",
+      "Inhabited by the Chakhesang and Pochury Naga tribes.",
+      "Known for its rich biodiversity and the scenic Pfütsero town, the highest and coldest town in Nagaland.",
+      "The district is famous for its legendary wrestling techniques.",
+      "Shilloi Lake is the largest natural lake in Nagaland and a place of many legends."
+    ],
+    "tourist_places": [
+      {
+        "name": "Shilloi Lake",
+        "location": "Phek, Nagaland",
+        "location_coords": {
+          "latitude": 25.568,
+          "longitude": 94.755
+        }
+      }
+    ]
+  },
+  "Tuensang": {
+    "title": "Tuensang, Nagaland",
+    "info": [
+      "One of the largest districts of Nagaland, bordering Myanmar.",
+      "Inhabited by multiple tribes, primarily the Chang, Yimkhiung, Khiamniungan, and Sangtam.",
+      "The district headquarters is Tuensang town.",
+      "Known for its vibrant tribal culture, handicrafts, and handlooms.",
+      "Longtrok (six stones) at Chungliyimti village is a significant historical and mythological site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Longtrok",
+        "location": "Chungliyimti, Tuensang, Nagaland",
+        "location_coords": {
+          "latitude": 26.2333,
+          "longitude": 94.8
+        }
+      }
+    ]
+  },
+  "Wokha": {
+    "title": "Wokha, Nagaland",
+    "info": [
+      "Known as the 'Land of Plenty'.",
+      "Predominantly inhabited by the Lotha Naga tribe.",
+      "The district headquarters is Wokha town.",
+      "Famous for the Doyang Hydro Project and its reservoir, which is a roosting site for Amur Falcons.",
+      "Mount Tiyi is a legendary peak believed to be the abode of departed souls."
+    ],
+    "tourist_places": [
+      {
+        "name": "Doyang Reservoir",
+        "location": "Wokha, Nagaland",
+        "location_coords": {
+          "latitude": 26.208,
+          "longitude": 94.275
+        }
+      }
+    ]
+  },
+  "Zunheboto": {
+    "title": "Zunheboto, Nagaland",
+    "info": [
+      "Considered the homeland of the Sumi Naga tribe.",
+      "The Sumi are known for their martial traditions and colorful festivals like Tuluni.",
+      "The district headquarters is Zunheboto town.",
+      "The Sumi Baptist Church in Zunheboto is one of the largest church buildings in Asia.",
+      "The region is known for its rolling hills and picturesque landscapes."
+    ],
+    "tourist_places": [
+      {
+        "name": "Sumi Baptist Church, Zunheboto",
+        "location": "Zunheboto, Nagaland",
+        "location_coords": {
+          "latitude": 26.0886,
+          "longitude": 94.5167
+        }
+      }
+    ]
+  },
+  "Peren": {
+    "title": "Peren, Nagaland",
+    "info": [
+      "The district is predominantly inhabited by the Zeliang and Kuki tribes.",
+      "The headquarters is at Peren town.",
+      "Known for its lush green landscapes and the beautiful Benreu village.",
+      "Ntangki National Park, a rich biodiversity hotspot, is located in this district.",
+      "The region is famous for its caves and natural rock formations."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ntangki National Park",
+        "location": "Peren, Nagaland",
+        "location_coords": {
+          "latitude": 25.5833,
+          "longitude": 93.4333
+        }
+      }
+    ]
+  },
+  "Kiphire": {
+    "title": "Kiphire, Nagaland",
+    "info": [
+      "Carved out of Tuensang district, it became a full-fledged district in 2004.",
+      "Home to Mount Saramati, the highest peak in Nagaland, which forms a natural border with Myanmar.",
+      "Inhabited by the Sangtam, Yimkhiung, and Sumi tribes.",
+      "The district headquarters is Kiphire town.",
+      "Fakim Wildlife Sanctuary is a notable protected area in the district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mount Saramati",
+        "location": "Near Thanamir Village, Kiphire, Nagaland",
+        "location_coords": {
+          "latitude": 25.738,
+          "longitude": 95.054
+        }
+      }
+    ]
+  },
+  "Longleng": {
+    "title": "Longleng, Nagaland",
+    "info": [
+      "Predominantly inhabited by the Phom Naga tribe.",
+      "The district was created from Tuensang district in 2004.",
+      "The headquarters is Longleng town.",
+      "The Phoms are known for their pottery, spinning, and bamboo work.",
+      "Monyu is the most important traditional festival of the Phom tribe."
+    ],
+    "tourist_places": [
+      {
+        "name": "Longleng Town",
+        "location": "Longleng, Nagaland",
+        "location_coords": {
+          "latitude": 26.4608,
+          "longitude": 94.8028
+        }
+      }
+    ]
+  }
+}

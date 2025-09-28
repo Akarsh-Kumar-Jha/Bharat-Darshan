@@ -1,0 +1,50 @@
+{
+  "Bihar": {
+    "Katihar": {
+      "title": "Katihar District",
+      "info": "Katihar, located in eastern Bihar, is a major railway junction and a significant commercial hub for the region. It is primarily known for its jute mills and agricultural trade. The current time is 3:06 AM."
+    },
+    "Patna": {
+      "title": "Patna District",
+      "info": "Home to the state capital, Patna is an ancient city that spans the south bank of the Ganges. It's a major political, educational, and commercial center with deep historical roots."
+    },
+    "Gaya": {
+      "title": "Gaya District",
+      "info": "Gaya is a city of immense historical and religious significance. It is a major pilgrimage site for Hindus and is located near Bodh Gaya, where Buddha is said to have attained enlightenment."
+    },
+    "West Champaran": {
+      "title": "West Champaran",
+      "info": "Located in the northwestern part of Bihar, West Champaran is known for the Valmiki National Park, the only national park in the state, which is home to tigers and other wildlife."
+    }
+  },
+  "West Bengal": {
+    "Darjeeling": {
+      "title": "Darjeeling District",
+      "info": "Famous for its vast tea plantations, the Darjeeling Himalayan Railway (a UNESCO World Heritage Site), and spectacular views of Kangchenjunga, the world's third-highest mountain."
+    },
+    "Kolkata": {
+      "title": "Kolkata District",
+      "info": "Kolkata, the capital of West Bengal, is known as the 'Cultural Capital of India'. It's famed for its grand colonial architecture, art galleries, and vibrant cultural festivals."
+    },
+    "Jalpaiguri": {
+        "title": "Jalpaiguri District",
+        "info": "A district in the northern part of West Bengal, Jalpaiguri is known for its tea gardens, forests, and wildlife sanctuaries like Gorumara National Park and Chapramari Wildlife Sanctuary."
+    }
+  },
+  "Assam": {
+    "Kamrup Metropolitan": {
+      "title": "Kamrup Metropolitan",
+      "info": "This district contains Guwahati, the largest city in Assam and the gateway to Northeast India. It's a hub for commerce, education, and transportation in the region."
+    },
+    "Dibrugarh": {
+        "title": "Dibrugarh District",
+        "info": "Known as the 'Tea City of India', Dibrugarh is a major center for the tea industry in Assam and is located along the Brahmaputra River."
+    }
+  },
+  "Sikkim": {
+    "Gangtok": {
+      "title": "Gangtok District",
+      "info": "Home to the state capital, Gangtok. It is a major center of Tibetan Buddhist culture and learning, with several prominent monasteries and institutions."
+    }
+  }
+}

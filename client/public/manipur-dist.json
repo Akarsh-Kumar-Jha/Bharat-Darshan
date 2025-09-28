@@ -1,0 +1,301 @@
+{
+  "Imphal East": {
+    "title": "Imphal East, Manipur",
+    "info": [
+      "One of the two districts that form the Imphal valley.",
+      "The district headquarters is at Porompat.",
+      "Features the historic Kangla Fort, the ancient capital of Manipur.",
+      "The Ima Keithel (Mother's Market), one of the world's largest all-women markets, is partially located here.",
+      "Predominantly inhabited by the Meitei people."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kangla Fort",
+        "location": "Imphal, Manipur",
+        "location_coords": {
+          "latitude": 24.811,
+          "longitude": 93.943
+        }
+      }
+    ]
+  },
+  "Imphal West": {
+    "title": "Imphal West, Manipur",
+    "info": [
+      "Contains the state capital, Imphal.",
+      "It is the most populous and developed district in Manipur.",
+      "The district headquarters is Lamphelpat.",
+      "Home to the Shri Shri Govindajee Temple, a historic Vaishnavite center.",
+      "Features the Imphal War Cemetery, commemorating soldiers who died in World War II."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ima Keithel (Mother's Market)",
+        "location": "Imphal, Imphal West, Manipur",
+        "location_coords": {
+          "latitude": 24.808,
+          "longitude": 93.945
+        }
+      },
+      {
+        "name": "Shri Shri Govindajee Temple",
+        "location": "Imphal, Imphal West, Manipur",
+        "location_coords": {
+          "latitude": 24.814,
+          "longitude": 93.948
+        }
+      }
+    ]
+  },
+  "Bishnupur": {
+    "title": "Bishnupur, Manipur",
+    "info": [
+      "Known for the Loktak Lake, the largest freshwater lake in Northeast India.",
+      "Home to the Keibul Lamjao National Park, the world's only floating national park and the last natural habitat of the Sangai deer.",
+      "The district headquarters is Bishnupur town.",
+      "Famous for the 15th-century Vishnu Temple, which showcases ancient architectural styles.",
+      "INA Memorial at Moirang commemorates the hoisting of the Indian National Army flag for the first time on Indian soil."
+    ],
+    "tourist_places": [
+      {
+        "name": "Loktak Lake",
+        "location": "Bishnupur, Manipur",
+        "location_coords": {
+          "latitude": 24.5333,
+          "longitude": 93.7833
+        }
+      },
+      {
+        "name": "Keibul Lamjao National Park",
+        "location": "Bishnupur, Manipur",
+        "location_coords": {
+          "latitude": 24.49,
+          "longitude": 93.76
+        }
+      }
+    ]
+  },
+  "Thoubal": {
+    "title": "Thoubal, Manipur",
+    "info": [
+      "Located in the Imphal valley, it is one of the most fertile districts of Manipur.",
+      "The district headquarters is at Thoubal town.",
+      "Known for its agricultural productivity, particularly in rice cultivation.",
+      "Khongjom War Memorial, located here, commemorates the last battle of Manipuri independence against the British in 1891.",
+      "The district is rich in lakes and rivers, making it ideal for pisciculture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Khongjom War Memorial Complex",
+        "location": "Khongjom, Thoubal, Manipur",
+        "location_coords": {
+          "latitude": 24.6,
+          "longitude": 94.0
+        }
+      }
+    ]
+  },
+  "Kakching": {
+    "title": "Kakching, Manipur",
+    "info": [
+      "Carved out of Thoubal district in 2016.",
+      "The headquarters, Kakching town, is a major commercial hub for the surrounding areas.",
+      "Often referred to as the 'Granary of Manipur' due to its high agricultural output.",
+      "The Uyok Ching is a popular local spot featuring a garden and a statue of Ibudhou Panganba.",
+      "The district is known for its skilled blacksmiths and handicraft artisans."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kakching Garden",
+        "location": "Kakching, Manipur",
+        "location_coords": {
+          "latitude": 24.483,
+          "longitude": 93.983
+        }
+      }
+    ]
+  },
+  "Senapati": {
+    "title": "Senapati, Manipur",
+    "info": [
+      "A hill district located in the northern part of Manipur.",
+      "Inhabited by various Naga tribes, primarily the Mao, Maram, Poumai, and Thangal.",
+      "The district headquarters is Senapati town.",
+      "Dzükou Valley, a scenic valley known for its seasonal flowers, is partly located in this district.",
+      "It is an important transit point on the Imphal-Dimapur highway (NH-2)."
+    ],
+    "tourist_places": [
+      {
+        "name": "Dzükou Valley (Part)",
+        "location": "Border of Nagaland and Manipur, Senapati, Manipur",
+        "location_coords": {
+          "latitude": 25.55,
+          "longitude": 94.0667
+        }
+      }
+    ]
+  },
+  "Ukhrul": {
+    "title": "Ukhrul, Manipur",
+    "info": [
+      "A hill district in eastern Manipur, bordering Myanmar.",
+      "Predominantly inhabited by the Tangkhul Naga tribe.",
+      "Known for the Shirui Lily (Lilium mackliniae), a rare and unique lily found only in the Shirui Hills.",
+      "The headquarters, Ukhrul town, is the highest hill station in Manipur.",
+      "The Khangkhui Mangsor Cave is a famous limestone cave with historical significance."
+    ],
+    "tourist_places": [
+      {
+        "name": "Shirui Kashong Peak",
+        "location": "Near Ukhrul, Ukhrul, Manipur",
+        "location_coords": {
+          "latitude": 25.1167,
+          "longitude": 94.45
+        }
+      },
+      {
+        "name": "Khangkhui Mangsor Cave",
+        "location": "Near Ukhrul, Ukhrul, Manipur",
+        "location_coords": {
+          "latitude": 24.9833,
+          "longitude": 94.3833
+        }
+      }
+    ]
+  },
+  "Churachandpur": {
+    "title": "Churachandpur, Manipur",
+    "info": [
+      "The largest district in Manipur by area.",
+      "Predominantly inhabited by various Kuki-Chin-Mizo tribes like the Paite, Hmar, Vaiphei, and Thadou.",
+      "The headquarters, Churachandpur town, is the second-largest town in the state.",
+      "Khuga Dam is a major multipurpose project providing irrigation and power.",
+      "The district is known for its vibrant tribal culture and handlooms."
+    ],
+    "tourist_places": [
+      {
+        "name": "Khuga Dam",
+        "location": "Near Churachandpur Town, Churachandpur, Manipur",
+        "location_coords": {
+          "latitude": 24.283,
+          "longitude": 93.683
+        }
+      }
+    ]
+  },
+  "Tamenglong": {
+    "title": "Tamenglong, Manipur",
+    "info": [
+      "A hill district known for its rich biodiversity and dense forests.",
+      "Often called the 'Land of the Hornbill'.",
+      "Inhabited by the Zeliangrong Naga community (Zeme, Liangmai, Rongmei).",
+      "Famous for its oranges and hosts the state-level Orange Festival.",
+      "The Tharon Cave and the Zeilad Lake are major natural attractions."
+    ],
+    "tourist_places": [
+      {
+        "name": "Tharon Cave",
+        "location": "Near Tamenglong Town, Tamenglong, Manipur",
+        "location_coords": {
+          "latitude": 24.983,
+          "longitude": 93.516
+        }
+      }
+    ]
+  },
+  "Chandel": {
+    "title": "Chandel, Manipur",
+    "info": [
+      "Located in the southeastern part of Manipur, bordering Myanmar.",
+      "The India-Myanmar border town of Moreh, a major international trade center, is in this district (now Tengnoupal).",
+      "The district is inhabited by Anal, Lamkang, Kuki, and other tribes.",
+      "The headquarters is at Chandel town.",
+      "Known for its rich flora and fauna."
+    ],
+    "tourist_places": []
+  },
+  "Kangpokpi": {
+    "title": "Kangpokpi, Manipur",
+    "info": [
+      "Carved out of Senapati district in 2016.",
+      "The district headquarters is Kangpokpi town.",
+      "Inhabited by a diverse mix of communities, including Kukis, Nepalis, and Nagas.",
+      "The Koubru mountain is a major pilgrimage site for the Meitei people.",
+      "The region is known for its scenic beauty and waterfalls."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mount Koubru",
+        "location": "Kangpokpi, Manipur",
+        "location_coords": {
+          "latitude": 25.083,
+          "longitude": 93.8
+        }
+      }
+    ]
+  },
+  "Tengnoupal": {
+    "title": "Tengnoupal, Manipur",
+    "info": [
+      "Created in 2016 by bifurcating Chandel district.",
+      "Home to Moreh, a bustling commercial town on the India-Myanmar border.",
+      "Moreh is a key point for the government's 'Act East' policy.",
+      "The district headquarters is at Tengnoupal town.",
+      "Inhabited by Kuki, Meitei, Tamil, and other communities."
+    ],
+    "tourist_places": [
+      {
+        "name": "Moreh Town (Indo-Myanmar Border)",
+        "location": "Tengnoupal, Manipur",
+        "location_coords": {
+          "latitude": 24.24,
+          "longitude": 94.3
+        }
+      }
+    ]
+  },
+  "Kamjong": {
+    "title": "Kamjong, Manipur",
+    "info": [
+      "A new district created in 2016 from Ukhrul district.",
+      "The headquarters is at Kamjong town.",
+      "It shares an international border with Myanmar.",
+      "The region is known for its rugged terrain and scenic beauty.",
+      "Predominantly inhabited by the Tangkhul Naga tribe."
+    ],
+    "tourist_places": []
+  },
+  "Noney": {
+    "title": "Noney, Manipur",
+    "info": [
+      "Carved out of Tamenglong district in 2016.",
+      "The headquarters is at Noney town.",
+      "The world's tallest railway bridge pier, part of the Jiribam-Imphal railway line, is being constructed here.",
+      "The district is rich in natural beauty with numerous waterfalls and caves.",
+      "Inhabited mainly by the Rongmei Naga tribe."
+    ],
+    "tourist_places": []
+  },
+  "Pherzawl": {
+    "title": "Pherzawl, Manipur",
+    "info": [
+      "Created in 2016 from Churachandpur district.",
+      "The headquarters is Pherzawl town.",
+      "It is a remote district bordering Mizoram and Assam.",
+      "Inhabited by Kuki-Chin-Mizo groups, primarily the Hmar tribe.",
+      "The Barak River flows through this district."
+    ],
+    "tourist_places": []
+  },
+  "Jiribam": {
+    "title": "Jiribam, Manipur",
+    "info": [
+      "Upgraded to a district in 2016 from a sub-division of Imphal East.",
+      "Often called the 'Western Gate of Manipur' as it borders Assam's Cachar district.",
+      "The headquarters, Jiribam town, is a key railway head for the state.",
+      "The district has a diverse population of Meiteis, Bengalis, Hmars, and others.",
+      "The Jiri River and Barak River flow through the district."
+    ],
+    "tourist_places": []
+  }
+}

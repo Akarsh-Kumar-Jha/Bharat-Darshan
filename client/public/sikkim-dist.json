@@ -1,0 +1,114 @@
+{
+  "East Sikkim": {
+    "title": "East Sikkim, Sikkim",
+    "info": [
+      "Home to Gangtok, the state capital of Sikkim.",
+      "A major hub for tourism, administration, and commerce in the state.",
+      "Features the famous Tsomgo Lake (Changu Lake) and the Nathu La Pass, a border crossing with China.",
+      "The district is known for its beautiful monasteries, including Rumtek Monastery.",
+      "It plays a crucial role in the state's economy due to its connectivity and urban centers."
+    ],
+    "tourist_places": [
+      {
+        "name": "Tsomgo Lake (Changu Lake)",
+        "location": "Near Gangtok, East Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.3747,
+          "longitude": 88.7618
+        }
+      },
+      {
+        "name": "Rumtek Monastery",
+        "location": "Near Gangtok, East Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.284,
+          "longitude": 88.5714
+        }
+      }
+    ]
+  },
+  "West Sikkim": {
+    "title": "West Sikkim, Sikkim",
+    "info": [
+      "Considered the historical heartland of Sikkim, home to Yuksom, the first capital.",
+      "Features Pelling, a famous tourist town with stunning views of the Kanchenjunga mountain range.",
+      "The base for many of Sikkim's most popular treks, including the one to Goecha La.",
+      "Contains the ruins of Rabdentse, the second capital of the former Kingdom of Sikkim.",
+      "Known for the Khecheopalri Lake, considered sacred by both Buddhists and Hindus."
+    ],
+    "tourist_places": [
+      {
+        "name": "Pelling",
+        "location": "Pelling, West Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.3179,
+          "longitude": 88.2366
+        }
+      },
+      {
+        "name": "Khecheopalri Lake",
+        "location": "Near Pelling, West Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.3712,
+          "longitude": 88.2017
+        }
+      }
+    ]
+  },
+  "North Sikkim": {
+    "title": "North Sikkim, Sikkim",
+    "info": [
+      "The largest of Sikkim's districts by area, but the least populated.",
+      "Famous for its breathtaking high-altitude landscapes, including Yumthang Valley (Valley of Flowers).",
+      "Home to Gurudongmar Lake, one of the highest lakes in the world, considered sacred.",
+      "Lachen and Lachung are the two main tourist towns, serving as bases for exploring the region.",
+      "The district's headquarters is Mangan, known as the 'Cardamom Capital of the World'."
+    ],
+    "tourist_places": [
+      {
+        "name": "Yumthang Valley",
+        "location": "Near Lachung, North Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.8267,
+          "longitude": 88.6958
+        }
+      },
+      {
+        "name": "Gurudongmar Lake",
+        "location": "Near Lachen, North Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 28.0257,
+          "longitude": 88.709
+        }
+      }
+    ]
+  },
+  "South Sikkim": {
+    "title": "South Sikkim, Sikkim",
+    "info": [
+      "The district headquarters is Namchi, which means 'Sky High' in the Sikkimese language.",
+      "Famous for the Char Dham complex (Siddheshwar Dham) in Namchi, a major Hindu pilgrimage site.",
+      "Features the giant statue of Guru Padmasambhava at Samdruptse Hill.",
+      "Known for its sprawling Temi Tea Garden, the only tea estate in Sikkim.",
+      "Considered a model district for its progress in organic farming and sanitation."
+    ],
+    "tourist_places": [
+      {
+        "name": "Char Dham (Siddheshwar Dham)",
+        "location": "Namchi, South Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.1643,
+          "longitude": 88.3429
+        }
+      },
+      {
+        "name": "Samdruptse Hill",
+        "location": "Namchi, South Sikkim, Sikkim",
+        "location_coords": {
+          "latitude": 27.1953,
+          "longitude": 88.3562
+        }
+      }
+    ]
+  }
+}

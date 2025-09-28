@@ -1,0 +1,518 @@
+{
+  "Tawang": {
+    "title": "Tawang, Arunachal Pradesh",
+    "info": [
+      "Home to the Tawang Monastery, the largest monastery in India and the second largest in the world.",
+      "Known for its breathtaking high-altitude scenery, including Sela Pass and numerous glacial lakes.",
+      "The district is inhabited primarily by the Monpa people.",
+      "It was a focal point during the 1962 Sino-Indian War.",
+      "Its economy is largely dependent on tourism and agriculture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Tawang Monastery",
+        "location": "Tawang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.587,
+          "longitude": 91.8592
+        }
+      },
+      {
+        "name": "Sela Pass",
+        "location": "Between Tawang & West Kameng districts, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.498,
+          "longitude": 92.1052
+        }
+      }
+    ]
+  },
+  "West Kameng": {
+    "title": "West Kameng, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Bomdila, a town offering panoramic views of the Himalayas.",
+      "Home to diverse ethnic groups including the Monpa, Miji, Sherdukpen, Aka, and Khowa tribes.",
+      "Features the Eaglenest Wildlife Sanctuary, a prime bird-watching destination.",
+      "Dirang Valley is famous for its hot water springs and apple orchards.",
+      "The Bomdila Monastery is a significant spiritual center in the district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bomdila Monastery",
+        "location": "Bomdila, West Kameng, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.2562,
+          "longitude": 92.4093
+        }
+      }
+    ]
+  },
+  "East Kameng": {
+    "title": "East Kameng, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Seppa.",
+      "The Kameng River flows through the district, offering opportunities for rafting and adventure sports.",
+      "Primarily inhabited by the Nyishi tribe.",
+      "Home to the Pakke Tiger Reserve, a crucial wildlife corridor.",
+      "The terrain is mostly mountainous, with a rich biodiversity."
+    ],
+    "tourist_places": [
+      {
+        "name": "Pakke Tiger Reserve",
+        "location": "Seppa, East Kameng, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.1611,
+          "longitude": 92.9806
+        }
+      }
+    ]
+  },
+  "Pakke Kessang": {
+    "title": "Pakke Kessang, Arunachal Pradesh",
+    "info": [
+      "One of the newest districts, created in 2018 by bifurcating East Kameng.",
+      "Its headquarters is at Lemmi.",
+      "The district is named after the Pakke River and Kessang Hills.",
+      "Primarily inhabited by the Nyishi people.",
+      "The region is known for its lush forests and biodiversity."
+    ],
+    "tourist_places": [
+      {
+        "name": "Pakke Valley",
+        "location": "Near Lemmi, Pakke Kessang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.202,
+          "longitude": 93.111
+        }
+      }
+    ]
+  },
+  "Papum Pare": {
+    "title": "Papum Pare, Arunachal Pradesh",
+    "info": [
+      "Contains the state capital, Itanagar, and the new legislative assembly at Naharlagun.",
+      "Itanagar is a historic city, identified with the ancient Mayapur.",
+      "The Ganga Lake (Gyakar Sinyi) is a popular recreational spot near the capital.",
+      "Primarily inhabited by the Nyishi and Mishing tribes.",
+      "The district is an administrative and educational hub for the state."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ita Fort",
+        "location": "Itanagar, Papum Pare, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.0935,
+          "longitude": 93.6186
+        }
+      },
+      {
+        "name": "Ganga Lake (Gyakar Sinyi)",
+        "location": "Near Itanagar, Papum Pare, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.0869,
+          "longitude": 93.5786
+        }
+      }
+    ]
+  },
+  "Lower Subansiri": {
+    "title": "Lower Subansiri, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Ziro.",
+      "Ziro Valley is a UNESCO World Heritage Site candidate, known for its stunning landscapes and Apatani culture.",
+      "The Apatani tribe is famous for its unique sustainable agriculture and social forestry systems.",
+      "The district hosts the popular Ziro Music Festival annually.",
+      "It is a major producer of rice in the state."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ziro Valley",
+        "location": "Ziro, Lower Subansiri, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.6322,
+          "longitude": 93.8347
+        }
+      }
+    ]
+  },
+  "Kra Daadi": {
+    "title": "Kra Daadi, Arunachal Pradesh",
+    "info": [
+      "Carved out of Kurung Kumey district in 2015.",
+      "The district headquarters is Palin.",
+      "The name is derived from two local hills, Kra and Daadi.",
+      "It is primarily inhabited by the Nyishi tribe.",
+      "The district is known for its rugged terrain and rich traditional culture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Palin",
+        "location": "Palin, Kra Daadi, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.701,
+          "longitude": 93.712
+        }
+      }
+    ]
+  },
+  "Kurung Kumey": {
+    "title": "Kurung Kumey, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Koloriang.",
+      "Known for its extremely rugged and mountainous terrain, making it one of the most remote districts.",
+      "Primarily inhabited by the Nyishi and Bangru tribes.",
+      "The Kurung and Kumey are the main rivers flowing through the district.",
+      "The region has a rich oral tradition and vibrant folk culture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Koloriang Town",
+        "location": "Koloriang, Kurung Kumey, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.902,
+          "longitude": 93.351
+        }
+      }
+    ]
+  },
+  "Upper Subansiri": {
+    "title": "Upper Subansiri, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Daporijo.",
+      "The Subansiri River, one of the largest tributaries of the Brahmaputra, flows through this district.",
+      "Inhabited by the Tagin, Nyishi, and Galo tribes.",
+      "The Menga Mandir (cave temple) is a significant local pilgrimage site.",
+      "Known for its cane and bamboo handicrafts."
+    ],
+    "tourist_places": [
+      {
+        "name": "Menga Mandir",
+        "location": "Near Daporijo, Upper Subansiri, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.9869,
+          "longitude": 94.2211
+        }
+      }
+    ]
+  },
+  "West Siang": {
+    "title": "West Siang, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Aalo (formerly Along).",
+      "The Siyom River meets the Siang (Brahmaputra) River in this district.",
+      "Primarily inhabited by the Galo tribe.",
+      "Known for its picturesque valleys and suspension bridges made of cane and bamboo.",
+      "The Ramakrishna Mission School in Aalo is a prominent educational institution."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kane Wildlife Sanctuary",
+        "location": "Near Aalo, West Siang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.1667,
+          "longitude": 94.75
+        }
+      }
+    ]
+  },
+  "Shi Yomi": {
+    "title": "Shi Yomi, Arunachal Pradesh",
+    "info": [
+      "A new district created in 2018, carved out of West Siang.",
+      "Its headquarters is at Tato.",
+      "The district borders China and is of strategic importance.",
+      "The name is derived from the Shi and Yomi rivers.",
+      "Inhabited by the Memba, Adi, and Tagin tribes."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mechuka Valley",
+        "location": "Mechuka, Shi Yomi, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.601,
+          "longitude": 94.132
+        }
+      }
+    ]
+  },
+  "Siang": {
+    "title": "Siang, Arunachal Pradesh",
+    "info": [
+      "Created in 2015 by bifurcating West Siang and East Siang districts.",
+      "The district headquarters is Boleng.",
+      "The mighty Siang River (Brahmaputra) flows through the heart of the district.",
+      "The region is known for its diverse Adi sub-tribes.",
+      "The landscape is dominated by river valleys and steep mountains."
+    ],
+    "tourist_places": [
+      {
+        "name": "Siyom-Siang River Confluence",
+        "location": "Pangin, Siang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.307,
+          "longitude": 94.945
+        }
+      }
+    ]
+  },
+  "Upper Siang": {
+    "title": "Upper Siang, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Yingkiong.",
+      "The Siang River enters India from Tibet in this district.",
+      "Inhabited mainly by the Adi and Memba tribes.",
+      "Known for the Mouling National Park, a vast biosphere reserve.",
+      "The district is remote with pristine forests and a rugged landscape."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mouling National Park",
+        "location": "Yingkiong, Upper Siang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.6,
+          "longitude": 94.9
+        }
+      }
+    ]
+  },
+  "East Siang": {
+    "title": "East Siang, Arunachal Pradesh",
+    "info": [
+      "The district headquarters, Pasighat, is the oldest administrative centre in Arunachal Pradesh.",
+      "Considered the 'Gateway to Arunachal Pradesh'.",
+      "The Siang River flows through Pasighat before entering Assam.",
+      "Primarily inhabited by the Adi tribe.",
+      "The Daying Ering Wildlife Sanctuary is located on an island in the Siang River."
+    ],
+    "tourist_places": [
+      {
+        "name": "Daying Ering Wildlife Sanctuary",
+        "location": "Pasighat, East Siang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.9167,
+          "longitude": 95.4167
+        }
+      }
+    ]
+  },
+  "Lower Siang": {
+    "title": "Lower Siang, Arunachal Pradesh",
+    "info": [
+      "Formally created in 2017 with its headquarters at Likabali.",
+      "The district was carved out of West Siang and East Siang districts.",
+      "Primarily inhabited by the Galo tribe.",
+      "Malinithan, an archaeological site with ancient temple ruins, is a major attraction.",
+      "The region lies in the foothills of the Himalayas."
+    ],
+    "tourist_places": [
+      {
+        "name": "Malinithan",
+        "location": "Likabali, Lower Siang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.7667,
+          "longitude": 94.9333
+        }
+      }
+    ]
+  },
+  "Lepa Rada": {
+    "title": "Lepa Rada, Arunachal Pradesh",
+    "info": [
+      "A new district created in 2018 from Lower Siang district.",
+      "The district headquarters is Basar.",
+      "Inhabited by the Galo tribe.",
+      "Basar is known for its 'GRK' (Gumin Rigo Kwgo) festivals and community-based initiatives.",
+      "The district has a strong focus on preserving its indigenous culture and traditions."
+    ],
+    "tourist_places": [
+      {
+        "name": "Basar Town",
+        "location": "Basar, Lepa Rada, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.986,
+          "longitude": 94.697
+        }
+      }
+    ]
+  },
+  "Kamle": {
+    "title": "Kamle, Arunachal Pradesh",
+    "info": [
+      "Inaugurated in 2017, carved out of Upper and Lower Subansiri districts.",
+      "The district headquarters is Raga.",
+      "Primarily inhabited by the Nyishi tribe.",
+      "The Kamle River flows through the district.",
+      "The district was created to improve administration in the remote region."
+    ],
+    "tourist_places": [
+      {
+        "name": "Raga Town",
+        "location": "Raga, Kamle, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.762,
+          "longitude": 94.135
+        }
+      }
+    ]
+  },
+  "Lower Dibang Valley": {
+    "title": "Lower Dibang Valley, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Roing.",
+      "Known for its stunning natural beauty, including lakes, waterfalls, and river valleys.",
+      "Primarily inhabited by the Idu Mishmi tribe.",
+      "The Bhismaknagar archaeological site contains ruins of an ancient fort.",
+      "Mehao Wildlife Sanctuary is located in this district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mayudia Pass",
+        "location": "Near Roing, Lower Dibang Valley, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.2667,
+          "longitude": 95.8833
+        }
+      }
+    ]
+  },
+  "Upper Dibang Valley": {
+    "title": "Upper Dibang Valley, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Anini.",
+      "It is the largest district in Arunachal Pradesh by area but the least populated district in India.",
+      "Primarily inhabited by the Idu Mishmi (Mishmi) tribe.",
+      "The district is extremely remote and known for its pristine, untouched landscapes.",
+      "It is a hotspot of biodiversity with rare flora and fauna."
+    ],
+    "tourist_places": [
+      {
+        "name": "Anini Town",
+        "location": "Anini, Upper Dibang Valley, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.802,
+          "longitude": 95.901
+        }
+      }
+    ]
+  },
+  "Anjaw": {
+    "title": "Anjaw, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Hawai.",
+      "It is the easternmost district of India.",
+      "The Lohit River flows through the district.",
+      "Known for the Kibithu and Walong towns, which were sites of major battles during the 1962 war.",
+      "Inhabited by the Mishmi and Meyor tribes."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kibithu",
+        "location": "Kibithu, Anjaw, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 28.281,
+          "longitude": 97.0178
+        }
+      }
+    ]
+  },
+  "Lohit": {
+    "title": "Lohit, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Tezu.",
+      "Famous for the Parshuram Kund, a major Hindu pilgrimage site that attracts devotees from all over India.",
+      "The Lohit River gives the district its name.",
+      "Inhabited by the Mishmi, Adi, and Khamti tribes.",
+      "Tezu is known for its vibrant Mishmi culture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Parshuram Kund",
+        "location": "Near Tezu, Lohit, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.873,
+          "longitude": 96.3683
+        }
+      }
+    ]
+  },
+  "Namsai": {
+    "title": "Namsai, Arunachal Pradesh",
+    "info": [
+      "Created in 2014 by bifurcating Lohit district.",
+      "The district headquarters is Namsai town.",
+      "Known for the Golden Pagoda (Kongmu Kham), a beautiful Buddhist monastery.",
+      "Primarily inhabited by the Khamti and Singpho tribes.",
+      "The district is a major producer of tea in Arunachal Pradesh."
+    ],
+    "tourist_places": [
+      {
+        "name": "Golden Pagoda (Kongmu Kham)",
+        "location": "Namsai, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.6617,
+          "longitude": 95.875
+        }
+      }
+    ]
+  },
+  "Changlang": {
+    "title": "Changlang, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Changlang town.",
+      "It shares an international border with Myanmar.",
+      "Home to the Namdapha National Park, a major biodiversity hotspot in the Eastern Himalayas.",
+      "Inhabited by the Tangsa, Tutsa, and Singpho tribes.",
+      "The historic Stilwell Road, built during World War II, passes through this district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Namdapha National Park",
+        "location": "Miao, Changlang, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.4914,
+          "longitude": 96.3883
+        }
+      }
+    ]
+  },
+  "Tirap": {
+    "title": "Tirap, Arunachal Pradesh",
+    "info": [
+      "The district headquarters is Khonsa.",
+      "It shares a border with Myanmar and the state of Nagaland.",
+      "Primarily inhabited by the Nocte, Wancho, and Tutsa tribes.",
+      "The district is known for its rich tribal culture and traditional village systems.",
+      "It has faced insurgency issues in the past."
+    ],
+    "tourist_places": [
+      {
+        "name": "Khonsa Town",
+        "location": "Khonsa, Tirap, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 27.014,
+          "longitude": 95.568
+        }
+      }
+    ]
+  },
+  "Longding": {
+    "title": "Longding, Arunachal Pradesh",
+    "info": [
+      "Carved out of Tirap district in 2012.",
+      "The district headquarters is Longding town.",
+      "Primarily inhabited by the Wancho tribe, known for their unique culture and traditions.",
+      "The Wancho are famous for their wood carvings and beadwork.",
+      "The district shares a border with Myanmar and Nagaland."
+    ],
+    "tourist_places": [
+      {
+        "name": "Pongchau Village",
+        "location": "Pongchau, Longding, Arunachal Pradesh",
+        "location_coords": {
+          "latitude": 26.835,
+          "longitude": 95.385
+        }
+      }
+    ]
+  }
+}

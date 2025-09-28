@@ -1,0 +1,598 @@
+{
+  "Alipurduar": {
+    "title": "Alipurduar, West Bengal",
+    "info": [
+      "Formed on 25th June 2014, it is the 20th district of West Bengal.",
+      "Located in the Dooars region, known for its immense natural beauty, forests, wildlife, and tea gardens.",
+      "Home to two major protected areas: Buxa Tiger Reserve and Jaldapara National Park.",
+      "Serves as the gateway to Bhutan and the northeastern states of India.",
+      "The economy is heavily dependent on the tea industry, timber, and tourism."
+    ],
+    "tourist_places": [
+      {
+        "name": "Buxa Tiger Reserve",
+        "location": "Buxa, Alipurduar, West Bengal",
+        "location_coords": {
+          "latitude": 26.7565,
+          "longitude": 89.5841
+        }
+      },
+      {
+        "name": "Jaldapara National Park",
+        "location": "Madarihat, Alipurduar, West Bengal",
+        "location_coords": {
+          "latitude": 26.6917,
+          "longitude": 89.2801
+        }
+      }
+    ]
+  },
+  "Bankura": {
+    "title": "Bankura, West Bengal",
+    "info": [
+      "Located in the western part of the state, it is a part of the historic Rarh region.",
+      "Famous for its terracotta temples, particularly in the town of Bishnupur.",
+      "The Bankura Horse, a terracotta craft, is a globally recognized symbol of Indian folk art.",
+      "Mukutmanipur Dam, on the Kangsabati River, is a major tourist attraction.",
+      "The economy is based on agriculture, traditional crafts like pottery and weaving, and mining."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bishnupur Terracotta Temples",
+        "location": "Bishnupur, Bankura, West Bengal",
+        "location_coords": {
+          "latitude": 23.075,
+          "longitude": 87.3204
+        }
+      },
+      {
+        "name": "Mukutmanipur Dam",
+        "location": "Khatra, Bankura, West Bengal",
+        "location_coords": {
+          "latitude": 22.9642,
+          "longitude": 86.7803
+        }
+      }
+    ]
+  },
+  "Birbhum": {
+    "title": "Birbhum, West Bengal",
+    "info": [
+      "Known as the 'land of red soil', its landscape is characterized by undulating laterite soil.",
+      "Famous for Visva-Bharati University in Santiniketan, founded by Nobel laureate Rabindranath Tagore.",
+      "A major religious hub, home to the Tarapith Temple, a revered Shakti Peeth.",
+      "Hosts the famous Poush Mela, an annual fair and festival that draws artists and tourists.",
+      "Bolinathpur is renowned for its traditional Bengali Kantha stitch work."
+    ],
+    "tourist_places": [
+      {
+        "name": "Visva-Bharati University",
+        "location": "Santiniketan, Birbhum, West Bengal",
+        "location_coords": {
+          "latitude": 23.6823,
+          "longitude": 87.6823
+        }
+      },
+      {
+        "name": "Tarapith Temple",
+        "location": "Tarapith, Birbhum, West Bengal",
+        "location_coords": {
+          "latitude": 24.1136,
+          "longitude": 87.801
+        }
+      }
+    ]
+  },
+  "Cooch Behar": {
+    "title": "Cooch Behar, West Bengal",
+    "info": [
+      "A former princely state located in the northeastern part of West Bengal.",
+      "Renowned for the magnificent Cooch Behar Palace, designed in the Italian Renaissance style.",
+      "The district has numerous large water bodies (dighis), with Sagardighi being the most famous.",
+      "The Madan Mohan Temple is a significant center of pilgrimage for Vaishnavites.",
+      "Agriculture is the mainstay of the economy, with jute, tobacco, and rice being the main crops."
+    ],
+    "tourist_places": [
+      {
+        "name": "Cooch Behar Palace",
+        "location": "Cooch Behar, West Bengal",
+        "location_coords": {
+          "latitude": 26.3243,
+          "longitude": 89.4485
+        }
+      },
+      {
+        "name": "Madan Mohan Temple",
+        "location": "Cooch Behar, West Bengal",
+        "location_coords": {
+          "latitude": 26.33,
+          "longitude": 89.4518
+        }
+      }
+    ]
+  },
+  "Dakshin Dinajpur": {
+    "title": "Dakshin Dinajpur, West Bengal",
+    "info": [
+      "Carved out of the erstwhile West Dinajpur district in 1992.",
+      "An agriculture-based district with rice, jute, and wheat as the primary produce.",
+      "Home to the ancient ruins of Bangarh, the historical capital of the Koti Varsha region.",
+      "The district has a rich folk culture, including the traditional 'Khan' theatre form.",
+      "The Bairhatta region contains ruins associated with the epic Mahabharata."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bangarh Ruins",
+        "location": "Gangarampur, Dakshin Dinajpur, West Bengal",
+        "location_coords": {
+          "latitude": 25.414,
+          "longitude": 88.5204
+        }
+      }
+    ]
+  },
+  "Darjeeling": {
+    "title": "Darjeeling, West Bengal",
+    "info": [
+      "A world-famous hill station located in the Lesser Himalayas.",
+      "Globally acclaimed for its unique 'Darjeeling Tea' and sprawling tea estates.",
+      "Home to the Darjeeling Himalayan Railway, a UNESCO World Heritage Site, popularly known as the 'Toy Train'.",
+      "Offers breathtaking views of Kanchenjunga, the world's third-highest mountain peak.",
+      "Padmaja Naidu Himalayan Zoological Park is renowned for its conservation programs for the Red Panda and Snow Leopard."
+    ],
+    "tourist_places": [
+      {
+        "name": "Darjeeling Himalayan Railway (Station)",
+        "location": "Darjeeling, West Bengal",
+        "location_coords": {
+          "latitude": 27.042,
+          "longitude": 88.2649
+        }
+      },
+      {
+        "name": "Tiger Hill",
+        "location": "Near Ghoom, Darjeeling, West Bengal",
+        "location_coords": {
+          "latitude": 27.0101,
+          "longitude": 88.2731
+        }
+      }
+    ]
+  },
+  "Hooghly": {
+    "title": "Hooghly, West Bengal",
+    "info": [
+      "A historically rich district on the west bank of the Hooghly River.",
+      "Has a strong colonial legacy with former settlements of the Portuguese (Bandel), Dutch (Chinsurah), and French (Chandannagar).",
+      "The Bandel Church is one of the oldest Christian churches in Bengal.",
+      "The Hooghly Imambara is a famous Shia pilgrimage center known for its large clock tower.",
+      "An industrially advanced district, known for jute mills and the Hindustan Motors factory."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bandel Church",
+        "location": "Bandel, Hooghly, West Bengal",
+        "location_coords": {
+          "latitude": 22.9221,
+          "longitude": 88.3941
+        }
+      },
+      {
+        "name": "Hooghly Imambara",
+        "location": "Hooghly, West Bengal",
+        "location_coords": {
+          "latitude": 22.9126,
+          "longitude": 88.3962
+        }
+      }
+    ]
+  },
+  "Howrah": {
+    "title": "Howrah, West Bengal",
+    "info": [
+      "Located on the western bank of the Hooghly River, it is the twin city of Kolkata.",
+      "Dominated by the iconic Howrah Bridge (Rabindra Setu), a symbol of Bengal.",
+      "Howrah Station is one of the oldest and busiest railway complexes in India.",
+      "Home to Belur Math, the headquarters of the Ramakrishna Math and Mission.",
+      "The Acharya Jagadish Chandra Bose Indian Botanic Garden houses the Great Banyan Tree, with the largest canopy in the world."
+    ],
+    "tourist_places": [
+      {
+        "name": "Howrah Bridge (Rabindra Setu)",
+        "location": "Howrah, West Bengal",
+        "location_coords": {
+          "latitude": 22.5852,
+          "longitude": 88.3632
+        }
+      },
+      {
+        "name": "Belur Math",
+        "location": "Belur, Howrah, West Bengal",
+        "location_coords": {
+          "latitude": 22.6299,
+          "longitude": 88.3562
+        }
+      }
+    ]
+  },
+  "Jalpaiguri": {
+    "title": "Jalpaiguri, West Bengal",
+    "info": [
+      "Located in the Dooars region in the foothills of the Himalayas.",
+      "Known for its extensive tea gardens, dense forests, and rich biodiversity.",
+      "Home to Gorumara National Park and Chapramari Wildlife Sanctuary, famous for rhinoceros and elephants.",
+      "The Teesta River flows through the district, offering opportunities for river rafting.",
+      "Its economy is driven by tea, timber, and tourism."
+    ],
+    "tourist_places": [
+      {
+        "name": "Gorumara National Park",
+        "location": "Lataguri, Jalpaiguri, West Bengal",
+        "location_coords": {
+          "latitude": 26.7905,
+          "longitude": 88.8252
+        }
+      }
+    ]
+  },
+  "Jhargram": {
+    "title": "Jhargram, West Bengal",
+    "info": [
+      "Carved out of Paschim Medinipur in 2017, it is known for its wooded beauty and tribal culture.",
+      "The landscape is a part of the Chota Nagpur Plateau, characterized by red laterite soil.",
+      "A popular eco-tourism destination with attractions like the Jhargram Raj Palace and Kendua bird sanctuary.",
+      "It is a significant center for the Santhal tribe and their vibrant culture.",
+      "The district is rich in forests of Sal, Mahua, and Piyal."
+    ],
+    "tourist_places": [
+      {
+        "name": "Jhargram Raj Palace",
+        "location": "Jhargram, West Bengal",
+        "location_coords": {
+          "latitude": 22.4514,
+          "longitude": 86.9839
+        }
+      }
+    ]
+  },
+  "Kalimpong": {
+    "title": "Kalimpong, West Bengal",
+    "info": [
+      "A serene hill station that became a district in 2017, separated from Darjeeling.",
+      "Known for its panoramic views of the Kanchenjunga range, Buddhist monasteries, and colonial architecture.",
+      "A major center for horticulture, particularly for exotic orchids and gladioli.",
+      "Deolo Hill is the highest point in Kalimpong, offering stunning 360-degree views.",
+      "Zang Dhok Palri Phodang (Durpin Monastery) holds rare Tibetan Buddhist scriptures."
+    ],
+    "tourist_places": [
+      {
+        "name": "Deolo Hill",
+        "location": "Kalimpong, West Bengal",
+        "location_coords": {
+          "latitude": 27.0818,
+          "longitude": 88.4849
+        }
+      },
+      {
+        "name": "Zang Dhok Palri Phodang Monastery",
+        "location": "Kalimpong, West Bengal",
+        "location_coords": {
+          "latitude": 27.0401,
+          "longitude": 88.4654
+        }
+      }
+    ]
+  },
+  "Kolkata": {
+    "title": "Kolkata, West Bengal",
+    "info": [
+      "The capital of West Bengal and the former capital of British India.",
+      "Widely regarded as the 'Cultural Capital of India'.",
+      "Famous for its grand colonial architecture, including the Victoria Memorial and St. Paul's Cathedral.",
+      "Durga Puja in Kolkata is a UNESCO Intangible Cultural Heritage of Humanity.",
+      "Home to the Indian Museum, the oldest and largest museum in India."
+    ],
+    "tourist_places": [
+      {
+        "name": "Victoria Memorial",
+        "location": "Kolkata, West Bengal",
+        "location_coords": {
+          "latitude": 22.5448,
+          "longitude": 88.3426
+        }
+      },
+      {
+        "name": "Dakshineswar Kali Temple",
+        "location": "Dakshineswar, Kolkata, West Bengal",
+        "location_coords": {
+          "latitude": 22.6549,
+          "longitude": 88.3577
+        }
+      }
+    ]
+  },
+  "Malda": {
+    "title": "Malda, West Bengal",
+    "info": [
+      "Historically significant as the seat of power for Bengal during the Sultanate period.",
+      "Home to the ancient ruined cities of Gour and Pandua, which served as the capitals of Bengal.",
+      "World-famous for its distinct varieties of mangoes like Fazli, Himsagar, and Laxmanbhog.",
+      "The Adina Mosque in Pandua was one of the largest mosques in the Indian subcontinent.",
+      "The economy is primarily based on agriculture, with mango cultivation, jute, and sericulture being vital."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ruins of Gour",
+        "location": "Near Malda town, West Bengal",
+        "location_coords": {
+          "latitude": 24.899,
+          "longitude": 88.1381
+        }
+      },
+      {
+        "name": "Adina Mosque",
+        "location": "Pandua, Malda, West Bengal",
+        "location_coords": {
+          "latitude": 25.1834,
+          "longitude": 88.1656
+        }
+      }
+    ]
+  },
+  "Murshidabad": {
+    "title": "Murshidabad, West Bengal",
+    "info": [
+      "The last capital city of independent Bengal before British rule.",
+      "Rich in Nawabi-era history, with numerous palaces, mosques, and tombs.",
+      "The Hazarduari Palace, or the palace with a thousand doors, is the most famous landmark.",
+      "Famous for its silk industry, producing the renowned Murshidabad silk.",
+      "The Katra Mosque contains the tomb of Nawab Murshid Quli Khan."
+    ],
+    "tourist_places": [
+      {
+        "name": "Hazarduari Palace Museum",
+        "location": "Murshidabad, West Bengal",
+        "location_coords": {
+          "latitude": 24.1873,
+          "longitude": 88.2704
+        }
+      },
+      {
+        "name": "Katra Mosque",
+        "location": "Murshidabad, West Bengal",
+        "location_coords": {
+          "latitude": 24.1947,
+          "longitude": 88.2831
+        }
+      }
+    ]
+  },
+  "Nadia": {
+    "title": "Nadia, West Bengal",
+    "info": [
+      "A district with immense religious and cultural significance.",
+      "Nabadwip is revered as the birthplace of the 15th-century saint Chaitanya Mahaprabhu.",
+      "Mayapur is the world headquarters of the International Society for Krishna Consciousness (ISKCON).",
+      "Krishnanagar, the district headquarters, is famous for its exquisite clay dolls ('Matir Putul').",
+      "The historic town of Plassey (Palashi), the site of the pivotal Battle of 1757, is located here."
+    ],
+    "tourist_places": [
+      {
+        "name": "ISKCON Temple (Chandradoya Mandir)",
+        "location": "Mayapur, Nadia, West Bengal",
+        "location_coords": {
+          "latitude": 23.4243,
+          "longitude": 88.3901
+        }
+      }
+    ]
+  },
+  "North 24 Parganas": {
+    "title": "North 24 Parganas, West Bengal",
+    "info": [
+      "The most populous district in West Bengal and the second most populous in India.",
+      "Stretches from the northern suburbs of Kolkata to the border with Bangladesh.",
+      "Barrackpore, a major town, played a key role in the Indian Rebellion of 1857.",
+      "A major industrial and agricultural district.",
+      "Taki, a town on the banks of the Ichamati River, is a popular weekend destination on the Indo-Bangladesh border."
+    ],
+    "tourist_places": [
+      {
+        "name": "Gandhi Ghat",
+        "location": "Barrackpore, North 24 Parganas, West Bengal",
+        "location_coords": {
+          "latitude": 22.7554,
+          "longitude": 88.357
+        }
+      }
+    ]
+  },
+  "Paschim Medinipur": {
+    "title": "Paschim Medinipur, West Bengal",
+    "info": [
+      "A large district in the south-western part of the state with diverse geography.",
+      "Midnapore town has a rich history related to the Indian independence movement.",
+      "Gopegarh Heritage Park is a popular eco-tourism spot.",
+      "The ancient Kurumbera Fort is a protected monument with a unique blend of Odia and Mughal architecture.",
+      "The district is known for its Patachitra art, a form of traditional scroll painting."
+    ],
+    "tourist_places": [
+      {
+        "name": "Gopegarh Heritage Park",
+        "location": "Midnapore, Paschim Medinipur, West Bengal",
+        "location_coords": {
+          "latitude": 22.4225,
+          "longitude": 87.3025
+        }
+      },
+      {
+        "name": "Kurumbera Fort",
+        "location": "Gaganeshwar, Paschim Medinipur, West Bengal",
+        "location_coords": {
+          "latitude": 21.9287,
+          "longitude": 87.6472
+        }
+      }
+    ]
+  },
+  "Paschim Bardhaman": {
+    "title": "Paschim Bardhaman, West Bengal",
+    "info": [
+      "Formed in 2017, it is the primary industrial zone of West Bengal.",
+      "Known as the 'Ruhr of India' due to its vast coalfields (Raniganj) and steel plants (Durgapur, Asansol).",
+      "Asansol is the district headquarters and the second-largest city in the state.",
+      "The Maithon and Panchet dams on the Damodar river are popular picnic and tourist spots.",
+      "The Kalyaneswari Temple near Maithon is a revered pilgrimage site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Maithon Dam",
+        "location": "Near Asansol, Paschim Bardhaman, West Bengal",
+        "location_coords": {
+          "latitude": 23.7885,
+          "longitude": 86.8202
+        }
+      },
+      {
+        "name": "Kalyaneswari Temple",
+        "location": "Near Maithon, Paschim Bardhaman, West Bengal",
+        "location_coords": {
+          "latitude": 23.7788,
+          "longitude": 86.8344
+        }
+      }
+    ]
+  },
+  "Purba Bardhaman": {
+    "title": "Purba Bardhaman, West Bengal",
+    "info": [
+      "Formed in 2017 after the bifurcation of Bardhaman district.",
+      "Known as the 'Rice Bowl of Bengal' for its extensive and fertile paddy fields.",
+      "Bardhaman city is famous for its sweets like Mihidana and Sitabhog.",
+      "The town of Kalna is famous for the 108 Shiva Temples (Naba Kailash), built in two concentric circles.",
+      "The Curzon Gate (Vijay Toran) is a prominent landmark in Bardhaman town."
+    ],
+    "tourist_places": [
+      {
+        "name": "108 Shiva Temples (Naba Kailash)",
+        "location": "Kalna, Purba Bardhaman, West Bengal",
+        "location_coords": {
+          "latitude": 23.2205,
+          "longitude": 88.3664
+        }
+      },
+      {
+        "name": "Curzon Gate (Vijay Toran)",
+        "location": "Bardhaman, Purba Bardhaman, West Bengal",
+        "location_coords": {
+          "latitude": 23.2501,
+          "longitude": 87.8631
+        }
+      }
+    ]
+  },
+  "Purba Medinipur": {
+    "title": "Purba Medinipur, West Bengal",
+    "info": [
+      "A coastal district known for its popular sea beaches.",
+      "Digha, Mandarmani, and Shankarpur are major seaside resorts attracting tourists.",
+      "Haldia is a major river port and a significant industrial hub in West Bengal.",
+      "The district is a major producer of cashews, betel leaves, and fish.",
+      "Tamluk, the district headquarters, is a historic port town identified with the ancient Tamralipta Kingdom."
+    ],
+    "tourist_places": [
+      {
+        "name": "Digha Beach",
+        "location": "Digha, Purba Medinipur, West Bengal",
+        "location_coords": {
+          "latitude": 21.6247,
+          "longitude": 87.5143
+        }
+      },
+      {
+        "name": "Mandarmani Beach",
+        "location": "Mandarmani, Purba Medinipur, West Bengal",
+        "location_coords": {
+          "latitude": 21.6599,
+          "longitude": 87.6749
+        }
+      }
+    ]
+  },
+  "Purulia": {
+    "title": "Purulia, West Bengal",
+    "info": [
+      "The westernmost district of West Bengal, characterized by the rugged beauty of the Chota Nagpur Plateau.",
+      "Famous for the Chhau dance, a vibrant and energetic martial folk dance, recognized by UNESCO.",
+      "The Ayodhya Hills are a major tourist attraction, offering scenic landscapes, waterfalls, and trekking routes.",
+      "The district has a significant tribal population, contributing to its rich folk heritage.",
+      "Garpanchkot, at the foothills of Panchet Hill, offers a blend of natural beauty and historical ruins."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ayodhya Hills",
+        "location": "Purulia, West Bengal",
+        "location_coords": {
+          "latitude": 23.2033,
+          "longitude": 86.1583
+        }
+      },
+      {
+        "name": "Garpanchkot",
+        "location": "Near Panchet Dam, Purulia, West Bengal",
+        "location_coords": {
+          "latitude": 23.6053,
+          "longitude": 86.7766
+        }
+      }
+    ]
+  },
+  "South 24 Parganas": {
+    "title": "South 24 Parganas, West Bengal",
+    "info": [
+      "Extends from the southern suburbs of Kolkata to the Bay of Bengal.",
+      "Home to the Indian portion of the Sundarbans, the world's largest mangrove forest.",
+      "The Sundarbans National Park is a UNESCO World Heritage Site and a critical habitat for the Royal Bengal Tiger.",
+      "Gangasagar (Sagar Island) is a major Hindu pilgrimage site where the Ganges meets the sea.",
+      "The economy is based on agriculture, aquaculture, and tourism related to the Sundarbans."
+    ],
+    "tourist_places": [
+      {
+        "name": "Sundarbans National Park (Sajnekhali)",
+        "location": "South 24 Parganas, West Bengal",
+        "location_coords": {
+          "latitude": 22.1157,
+          "longitude": 88.877
+        }
+      },
+      {
+        "name": "Gangasagar (Kapil Muni Temple)",
+        "location": "Sagar Island, South 24 Parganas, West Bengal",
+        "location_coords": {
+          "latitude": 21.6493,
+          "longitude": 88.0754
+        }
+      }
+    ]
+  },
+  "Uttar Dinajpur": {
+    "title": "Uttar Dinajpur, West Bengal",
+    "info": [
+      "Formed in 1992 by the division of the West Dinajpur district.",
+      "Raiganj Wildlife Sanctuary, popularly known as Kulik Bird Sanctuary, is a major attraction.",
+      "Kulik is one of the largest bird sanctuaries in Asia, hosting a vast population of migratory birds.",
+      "The economy is primarily driven by agriculture, with a focus on rice and jute.",
+      "The district serves as a vital corridor connecting North Bengal with the rest of the state."
+    ],
+    "tourist_places": [
+      {
+        "name": "Raiganj Wildlife Sanctuary (Kulik Bird Sanctuary)",
+        "location": "Raiganj, Uttar Dinajpur, West Bengal",
+        "location_coords": {
+          "latitude": 25.6335,
+          "longitude": 88.1362
+        }
+      }
+    ]
+  }
+}

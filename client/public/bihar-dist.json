@@ -1,0 +1,817 @@
+{
+  "Araria": {
+    "title": "Araria, Bihar",
+    "info": [
+      "Located in the Seemanchal region bordering Nepal.",
+      "Carved out of Purnia district in 1990.",
+      "Known for its significant production of jute and maize.",
+      "The homeland of the famous Hindi writer Phanishwar Nath 'Renu'.",
+      "Its geography is influenced by the Kosi River, making it fertile yet prone to floods."
+    ],
+    "tourist_places": [
+      {
+        "name": "Phanishwar Nath 'Renu's Village",
+        "location": "Aurahi Hingna, Araria, Bihar",
+        "location_coords": {
+          "latitude": 26.2991,
+          "longitude": 87.3243
+        }
+      }
+    ]
+  },
+  "Arwal": {
+    "title": "Arwal, Bihar",
+    "info": [
+      "Carved out from Jehanabad district in August 2001.",
+      "A smaller district situated on the banks of the Son River.",
+      "Its economy is heavily dependent on agriculture, with rice, wheat, and pulses as the main crops.",
+      "Part of the Magadh division, it has seen significant development in recent years.",
+      "Historically, the region was affected by Naxalism but is now largely peaceful."
+    ],
+    "tourist_places": []
+  },
+  "Aurangabad": {
+    "title": "Aurangabad, Bihar",
+    "info": [
+      "Often called the 'Chittorgarh of Bihar' due to its large Rajput population.",
+      "Historically significant and famous for the ancient Deo Sun Temple.",
+      "Located in the drought-prone Magadh region with a well-developed canal irrigation system.",
+      "A major cement production hub for Bihar.",
+      "It was a major center during the independence movement, particularly the Quit India Movement."
+    ],
+    "tourist_places": [
+      {
+        "name": "Deo Sun Temple",
+        "location": "Deo, Aurangabad, Bihar",
+        "location_coords": {
+          "latitude": 24.654,
+          "longitude": 84.433
+        }
+      }
+    ]
+  },
+  "Banka": {
+    "title": "Banka, Bihar",
+    "info": [
+      "Known for Mandar Hill, a granite hill of great mythological significance.",
+      "Mandar Hill is associated with the 'Samudra Manthan' (churning of the ocean) in Hindu mythology.",
+      "Carved out of Bhagalpur district in 1991.",
+      "Has significant forest cover and is known for Tussar silk production.",
+      "Its economy is a mix of agriculture and small-scale industries."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mandar Hill (Mandar Parvat)",
+        "location": "Mandar Hills, Banka, Bihar",
+        "location_coords": {
+          "latitude": 24.8354,
+          "longitude": 87.0725
+        }
+      }
+    ]
+  },
+  "Begusarai": {
+    "title": "Begusarai, Bihar",
+    "info": [
+      "Considered the 'Industrial Capital of Bihar'.",
+      "Home to major industries like the Barauni Oil Refinery and Thermal Power Station.",
+      "The birthplace of the national poet Ramdhari Singh 'Dinkar'.",
+      "Famous for Kanwar Lake, Asia's largest freshwater oxbow lake and a designated Ramsar site.",
+      "The Jai Mangla Garh temple is a significant local pilgrimage site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kanwar Lake Bird Sanctuary",
+        "location": "Near Manjhaul, Begusarai, Bihar",
+        "location_coords": {
+          "latitude": 25.5947,
+          "longitude": 86.1362
+        }
+      }
+    ]
+  },
+  "Bhagalpur": {
+    "title": "Bhagalpur, Bihar",
+    "info": [
+      "Famously known as the 'Silk City' of India for its Tussar silk industry.",
+      "A historic city on the banks of the Ganges, it was part of the ancient Anga Kingdom.",
+      "Was the seat of the Vikramshila University, a great center of Buddhist learning.",
+      "Home to the Vikramshila Gangetic Dolphin Sanctuary, dedicated to protecting the endangered Gangetic dolphins.",
+      "Kuppa Ghat, an ashram on the banks of the Ganges, is a center for followers of Maharshi Mehi Paramhans."
+    ],
+    "tourist_places": [
+      {
+        "name": "Vikramshila University Ruins",
+        "location": "Antichak, Bhagalpur, Bihar",
+        "location_coords": {
+          "latitude": 25.3197,
+          "longitude": 87.2796
+        }
+      },
+      {
+        "name": "Vikramshila Gangetic Dolphin Sanctuary",
+        "location": "Along the Ganges River, near Bhagalpur, Bihar",
+        "location_coords": {
+          "latitude": 25.2494,
+          "longitude": 86.9854
+        }
+      }
+    ]
+  },
+  "Bhojpur": {
+    "title": "Bhojpur, Bihar",
+    "info": [
+      "Headquartered in Arrah, it is a major center for the Bhojpuri-speaking population and culture.",
+      "Historically significant for the role of its king, Veer Kunwar Singh, in the 1857 Indian Rebellion.",
+      "Located at the confluence of the Ganges and Son rivers.",
+      "Its fertile plains are a major contributor to Bihar's rice production.",
+      "The Aranya Devi Temple in Arrah is a famous local shrine."
+    ],
+    "tourist_places": [
+      {
+        "name": "Veer Kunwar Singh Fort",
+        "location": "Jagdishpur, Bhojpur, Bihar",
+        "location_coords": {
+          "latitude": 25.467,
+          "longitude": 84.4239
+        }
+      }
+    ]
+  },
+  "Buxar": {
+    "title": "Buxar, Bihar",
+    "info": [
+      "Holds immense historical and mythological importance.",
+      "The site of the pivotal Battle of Buxar in 1764, which established British supremacy in India.",
+      "According to mythology, it was the hermitage of Sage Vishvamitra, where Lord Ram killed the demoness Tadka.",
+      "A significant agricultural district on the banks of the Ganges.",
+      "The Chausa hoard, a significant discovery of Jain bronzes, was found here."
+    ],
+    "tourist_places": [
+      {
+        "name": "Buxar Fort",
+        "location": "Buxar, Bihar",
+        "location_coords": {
+          "latitude": 25.5683,
+          "longitude": 83.9876
+        }
+      }
+    ]
+  },
+  "Darbhanga": {
+    "title": "Darbhanga, Bihar",
+    "info": [
+      "The cultural heart of the Mithilanchal region.",
+      "Was the seat of the Darbhanga Raj, a powerful dynasty known for its patronage of art, music, and literature.",
+      "Famous for palaces like Nargona and Rambagh.",
+      "A major producer of Makhana (fox nuts) and fish.",
+      "Serves as a key medical and educational hub for the region, with Darbhanga Medical College and Hospital."
+    ],
+    "tourist_places": [
+      {
+        "name": "Darbhanga Raj Complex (Rambagh Palace)",
+        "location": "Darbhanga, Bihar",
+        "location_coords": {
+          "latitude": 26.1556,
+          "longitude": 85.8974
+        }
+      }
+    ]
+  },
+  "East Champaran": {
+    "title": "East Champaran, Bihar",
+    "info": [
+      "Holds a prominent place in India's freedom struggle.",
+      "Its headquarters, Motihari, is where Mahatma Gandhi launched his first Satyagraha movement in 1917.",
+      "The birthplace of the renowned author George Orwell.",
+      "The world's tallest Buddhist stupa is located in Kesariya within this district.",
+      "The Raxaul border crossing is a major trade route with Nepal."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kesariya Stupa",
+        "location": "Kesariya, East Champaran, Bihar",
+        "location_coords": {
+          "latitude": 26.3477,
+          "longitude": 84.877
+        }
+      }
+    ]
+  },
+  "Gaya": {
+    "title": "Gaya, Bihar",
+    "info": [
+      "A major international pilgrimage center for both Hindus and Buddhists.",
+      "Hindus visit to perform the 'Pind-daan' ritual for their ancestors at the Vishnupad Temple.",
+      "Adjacent Bodh Gaya is a UNESCO World Heritage Site, where Gautama Buddha attained enlightenment under the Bodhi tree.",
+      "The Mahabodhi Temple is a central pilgrimage destination for Buddhists worldwide.",
+      "The Barabar Caves, ancient rock-cut caves, are located in this district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Mahabodhi Temple",
+        "location": "Bodh Gaya, Gaya, Bihar",
+        "location_coords": {
+          "latitude": 24.6961,
+          "longitude": 84.9912
+        }
+      },
+      {
+        "name": "Vishnupad Temple",
+        "location": "Gaya, Bihar",
+        "location_coords": {
+          "latitude": 24.7831,
+          "longitude": 84.9961
+        }
+      }
+    ]
+  },
+  "Gopalganj": {
+    "title": "Gopalganj, Bihar",
+    "info": [
+      "An agricultural district on the banks of the Gandak river.",
+      "Its economy is driven by sugarcane cultivation and remittances from its diaspora.",
+      "The native place of former Chief Minister Lalu Prasad Yadav.",
+      "The Thawe Mandir, a famous Shakti Peeth, is a major religious site here.",
+      "It is located in the northern part of Bihar, bordering Uttar Pradesh."
+    ],
+    "tourist_places": [
+      {
+        "name": "Thawe Mandir",
+        "location": "Thawe, Gopalganj, Bihar",
+        "location_coords": {
+          "latitude": 26.4678,
+          "longitude": 84.4984
+        }
+      }
+    ]
+  },
+  "Jamui": {
+    "title": "Jamui, Bihar",
+    "info": [
+      "Characterized by hilly terrain and forests.",
+      "Known for its rich mineral deposits, including reserves of mica and gold.",
+      "Carved from Munger district in 1991.",
+      "Home to the Jain pilgrimage site at Lachhuar and the Nagi-Nakti dam bird sanctuaries.",
+      "The Giddheshwar Temple is another prominent religious site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Nagi Dam and Nakti Dam Bird Sanctuaries",
+        "location": "Jhajha, Jamui, Bihar",
+        "location_coords": {
+          "latitude": 24.8143,
+          "longitude": 86.4251
+        }
+      }
+    ]
+  },
+  "Jehanabad": {
+    "title": "Jehanabad, Bihar",
+    "info": [
+      "Famous for the Barabar Caves, the oldest surviving rock-cut caves in India, dating back to the Mauryan Empire.",
+      "The district, once affected by Naxalism, has an economy based primarily on agriculture.",
+      "Bifurcated in 2001 to create the new district of Arwal.",
+      "It is part of the ancient Magadh region.",
+      "The Paona Math is a notable local religious institution."
+    ],
+    "tourist_places": [
+      {
+        "name": "Barabar Caves",
+        "location": "Sultanpur, Jehanabad, Bihar",
+        "location_coords": {
+          "latitude": 25.0062,
+          "longitude": 85.0645
+        }
+      }
+    ]
+  },
+  "Kaimur": {
+    "title": "Kaimur, Bihar",
+    "info": [
+      "Headquartered in Bhabua, the district is defined by the Kaimur Range and is rich in forest resources.",
+      "Home to the Kaimur Wildlife Sanctuary, the largest in Bihar.",
+      "The site of the ancient Maa Mundeshwari Temple, one of the oldest functional Hindu temples in the world.",
+      "A major rice-producing area, often called part of the 'Rice Bowl of Bihar'.",
+      "The Telhar Kund waterfall is a scenic tourist spot."
+    ],
+    "tourist_places": [
+      {
+        "name": "Maa Mundeshwari Temple",
+        "location": "Near Bhabua, Kaimur, Bihar",
+        "location_coords": {
+          "latitude": 24.9786,
+          "longitude": 83.593
+        }
+      },
+      {
+        "name": "Kaimur Wildlife Sanctuary",
+        "location": "Kaimur district, Bihar",
+        "location_coords": {
+          "latitude": 24.7214,
+          "longitude": 83.5956
+        }
+      }
+    ]
+  },
+  "Katihar": {
+    "title": "Katihar, Bihar",
+    "info": [
+      "Located in the Seemanchal region, Katihar is a vital commercial town and a major railway junction.",
+      "One of Bihar's largest producers of jute and banana.",
+      "The Goga Lake (Gogabil), the state's first community reserve, is a significant bird habitat located here.",
+      "The district has a diverse population and a culture influenced by its proximity to Bengal.",
+      "The economy is primarily agrarian."
+    ],
+    "tourist_places": [
+      {
+        "name": "Goga Lake (Gogabil)",
+        "location": "Near Manihari, Katihar, Bihar",
+        "location_coords": {
+          "latitude": 25.4328,
+          "longitude": 87.585
+        }
+      }
+    ]
+  },
+  "Khagaria": {
+    "title": "Khagaria, Bihar",
+    "info": [
+      "Located in the plains of the Kosi River, its landscape is shaped by seven rivers.",
+      "The land is highly fertile but also extremely prone to annual floods.",
+      "A major producer of maize and chili peppers in Bihar.",
+      "The Katyayani Sthan temple at Dhamara Ghat is a famous religious site.",
+      "The district was carved out of Munger district in 1981."
+    ],
+    "tourist_places": [
+      {
+        "name": "Katyayani Sthan",
+        "location": "Dhamara Ghat, Khagaria, Bihar",
+        "location_coords": {
+          "latitude": 25.5494,
+          "longitude": 86.671
+        }
+      }
+    ]
+  },
+  "Kishanganj": {
+    "title": "Kishanganj, Bihar",
+    "info": [
+      "Situated in the 'Chicken's Neck' corridor of India, bordering Nepal and West Bengal.",
+      "The only district in Bihar that grows tea.",
+      "It also produces significant quantities of pineapple and jute.",
+      "Has the highest percentage of Muslim population among all districts in the state.",
+      "The historic Nehru Shanti Park is a well-known local landmark."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kishanganj Tea Gardens",
+        "location": "Thakurganj, Kishanganj, Bihar",
+        "location_coords": {
+          "latitude": 26.4445,
+          "longitude": 88.1408
+        }
+      }
+    ]
+  },
+  "Lakhisarai": {
+    "title": "Lakhisarai, Bihar",
+    "info": [
+      "An ancient region on the southern bank of the Ganges.",
+      "It was an important administrative and religious center during the Pala dynasty.",
+      "Famous for Ashokdham, a major temple complex dedicated to Lord Shiva.",
+      "Known for its widespread manufacturing of Sindoor (vermilion powder).",
+      "The district was formed in 1994 from Munger district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ashokdham",
+        "location": "Lakhisarai, Bihar",
+        "location_coords": {
+          "latitude": 25.178,
+          "longitude": 86.1032
+        }
+      }
+    ]
+  },
+  "Madhepura": {
+    "title": "Madhepura, Bihar",
+    "info": [
+      "Deeply affected by the Kosi River, often called the 'Sorrow of Bihar'.",
+      "A major center of Yadav culture and politics.",
+      "Known for the ancient Singheshwar Sthan temple dedicated to Lord Shiva, which attracts many pilgrims.",
+      "Gained industrial importance with a large electric locomotive factory.",
+      "The district was carved out of Saharsa district in 1981."
+    ],
+    "tourist_places": [
+      {
+        "name": "Singheshwar Sthan",
+        "location": "Singheshwar, Madhepura, Bihar",
+        "location_coords": {
+          "latitude": 25.8826,
+          "longitude": 86.7909
+        }
+      }
+    ]
+  },
+  "Madhubani": {
+    "title": "Madhubani, Bihar",
+    "info": [
+      "World-famous as the heartland of Madhubani or Mithila paintings, a traditional folk art form.",
+      "A major cultural hub of the Mithila region.",
+      "A leading producer of Makhana (fox nuts) and fish in India.",
+      "The ruined palaces of Rajnagar are a testament to its rich history under the Darbhanga Raj.",
+      "The Saurath Sabha is a site where thousands of Maithil Brahmins gather for marriage negotiations."
+    ],
+    "tourist_places": [
+      {
+        "name": "Rajnagar Palace Complex",
+        "location": "Rajnagar, Madhubani, Bihar",
+        "location_coords": {
+          "latitude": 26.3813,
+          "longitude": 86.1438
+        }
+      }
+    ]
+  },
+  "Munger": {
+    "title": "Munger, Bihar",
+    "info": [
+      "A historically significant city that was the capital of Mir Qasim, the Nawab of Bengal.",
+      "Known for the grand Munger Fort and the prestigious Bihar School of Yoga.",
+      "Historically known for traditional gun manufacturing, a cigarette factory, and a railway workshop.",
+      "Sita Kund, a hot water spring, is a popular pilgrimage site.",
+      "The district is situated on the southern bank of the river Ganges."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bihar School of Yoga",
+        "location": "Munger, Bihar",
+        "location_coords": {
+          "latitude": 25.3854,
+          "longitude": 86.4716
+        }
+      },
+      {
+        "name": "Munger Fort",
+        "location": "Munger, Bihar",
+        "location_coords": {
+          "latitude": 25.381,
+          "longitude": 86.478
+        }
+      }
+    ]
+  },
+  "Muzaffarpur": {
+    "title": "Muzaffarpur, Bihar",
+    "info": [
+      "Known as the 'Lychee Kingdom' for its famous 'Shahi Litchi', which has a Geographical Indication (GI) tag.",
+      "A major commercial, educational, and healthcare hub for North Bihar.",
+      "Situated on the banks of the Budhi Gandak river.",
+      "It was a key center during the Indian independence movement.",
+      "The Baba Garibnath Dham is a prominent local temple."
+    ],
+    "tourist_places": [
+      {
+        "name": "Baba Garibnath Dham",
+        "location": "Muzaffarpur, Bihar",
+        "location_coords": {
+          "latitude": 26.1215,
+          "longitude": 85.3905
+        }
+      }
+    ]
+  },
+  "Nalanda": {
+    "title": "Nalanda, Bihar",
+    "info": [
+      "Home to the ruins of the ancient Nalanda Mahavihara, a UNESCO World Heritage Site and a great center of learning.",
+      "A key pilgrimage site for Jains, with Pawapuri being the place where Lord Mahavira attained nirvana.",
+      "The ancient city of Rajgir, the first capital of Magadha, is another major tourist and historical attraction.",
+      "The glass bridge at Rajgir has become a popular modern tourist spot.",
+      "Hiuen Tsang Memorial Hall is dedicated to the famous Chinese traveler who studied at Nalanda."
+    ],
+    "tourist_places": [
+      {
+        "name": "Nalanda Mahavihara Ruins",
+        "location": "Nalanda, Bihar",
+        "location_coords": {
+          "latitude": 25.1352,
+          "longitude": 85.4444
+        }
+      },
+      {
+        "name": "Rajgir Vishwa Shanti Stupa",
+        "location": "Rajgir, Nalanda, Bihar",
+        "location_coords": {
+          "latitude": 25.0069,
+          "longitude": 85.4262
+        }
+      }
+    ]
+  },
+  "Nawada": {
+    "title": "Nawada, Bihar",
+    "info": [
+      "Located in southern Bihar bordering Jharkhand.",
+      "Best known for the scenic Kakolat waterfall, a popular picnic spot.",
+      "The district has significant mica deposits.",
+      "Its economy is primarily based on agriculture.",
+      "The ancient Suryanarayan Dham Temple at Handiya is a notable religious site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kakolat Waterfall",
+        "location": "Kakolat, Nawada, Bihar",
+        "location_coords": {
+          "latitude": 24.819,
+          "longitude": 85.6293
+        }
+      }
+    ]
+  },
+  "Patna": {
+    "title": "Patna, Bihar",
+    "info": [
+      "The state capital with a continuous history of over 2,500 years.",
+      "Formerly known as Pataliputra, it was the capital of the Mauryan and Gupta empires.",
+      "A bustling political and commercial center on the banks of the Ganges.",
+      "Key landmarks include Golghar, Patna Museum, and the modern Bihar Museum.",
+      "Takht Sri Patna Sahib is one of the five holiest sites (Takhts) in Sikhism, being the birthplace of Guru Gobind Singh."
+    ],
+    "tourist_places": [
+      {
+        "name": "Golghar",
+        "location": "Patna, Bihar",
+        "location_coords": {
+          "latitude": 25.6214,
+          "longitude": 85.1354
+        }
+      },
+      {
+        "name": "Takht Sri Patna Sahib",
+        "location": "Patna City, Patna, Bihar",
+        "location_coords": {
+          "latitude": 25.591,
+          "longitude": 85.2201
+        }
+      }
+    ]
+  },
+  "Purnia": {
+    "title": "Purnia, Bihar",
+    "info": [
+      "One of the oldest districts of Bihar and a major city in the Seemanchal region.",
+      "A significant agricultural trade center, particularly for maize, jute, and makhana.",
+      "Its culture is a unique blend influenced by its proximity to Bengal and Nepal.",
+      "The Puran Devi Temple is a notable local landmark.",
+      "The city has a rich literary and cultural history."
+    ],
+    "tourist_places": [
+      {
+        "name": "Puran Devi Temple",
+        "location": "Purnia, Bihar",
+        "location_coords": {
+          "latitude": 25.7766,
+          "longitude": 87.4655
+        }
+      }
+    ]
+  },
+  "Rohtas": {
+    "title": "Rohtas, Bihar",
+    "info": [
+      "Often called the 'Rice Bowl of Bihar' due to high rice production.",
+      "Its headquarters, Sasaram, houses the magnificent tomb of Emperor Sher Shah Suri.",
+      "The historic Rohtasgarh Fort on the Kaimur plateau is a major landmark.",
+      "The district has abundant limestone reserves, supporting several cement factories.",
+      "The Indrapuri Barrage is one of the longest barrages in the country."
+    ],
+    "tourist_places": [
+      {
+        "name": "Tomb of Sher Shah Suri",
+        "location": "Sasaram, Rohtas, Bihar",
+        "location_coords": {
+          "latitude": 24.9452,
+          "longitude": 84.0152
+        }
+      },
+      {
+        "name": "Rohtasgarh Fort",
+        "location": "Rohtas, Bihar",
+        "location_coords": {
+          "latitude": 24.6292,
+          "longitude": 83.8963
+        }
+      }
+    ]
+  },
+  "Saharsa": {
+    "title": "Saharsa, Bihar",
+    "info": [
+      "Part of the Mithila region, its geography is dominated by the Kosi River.",
+      "A major producer of Makhana (fox nuts).",
+      "Known for the famous Ugratara Temple in Mahishi, a Shakti Peeth.",
+      "Holds a rich cultural heritage tied to Mithila traditions.",
+      "The district was formed in 1954."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ugratara Temple",
+        "location": "Mahishi, Saharsa, Bihar",
+        "location_coords": {
+          "latitude": 25.7511,
+          "longitude": 86.6212
+        }
+      }
+    ]
+  },
+  "Samastipur": {
+    "title": "Samastipur, Bihar",
+    "info": [
+      "An important agricultural and commercial center.",
+      "Known for its production of tobacco, sugarcane, and wheat.",
+      "A major railway hub as the headquarters of a railway division.",
+      "Home to the renowned Dr. Rajendra Prasad Central Agricultural University in Pusa.",
+      "The Khudneshwar Sthan temple is a popular pilgrimage site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Dr. Rajendra Prasad Central Agricultural University",
+        "location": "Pusa, Samastipur, Bihar",
+        "location_coords": {
+          "latitude": 25.9754,
+          "longitude": 85.6793
+        }
+      }
+    ]
+  },
+  "Saran": {
+    "title": "Saran, Bihar",
+    "info": [
+      "Headquartered in Chhapra, it is a culturally rich district in the Bhojpuri-speaking belt.",
+      "Famous for hosting the Sonepur Mela, one of the world's largest cattle fairs.",
+      "The fair is held annually at the confluence of the Ganga and Gandak rivers.",
+      "Has a deep archaeological heritage and a primarily agrarian economy.",
+      "The Harihar Nath Temple in Sonepur is a major pilgrimage site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Harihar Nath Temple (Sonepur)",
+        "location": "Sonepur, Saran, Bihar",
+        "location_coords": {
+          "latitude": 25.7005,
+          "longitude": 85.1856
+        }
+      }
+    ]
+  },
+  "Sheikhpura": {
+    "title": "Sheikhpura, Bihar",
+    "info": [
+      "One of the smallest districts of Bihar, known for its landscape of small granite hills.",
+      "A significant producer of onions in the state.",
+      "Its name is linked to the Sufi saint 'Hazarat Makhdum Shah Shoeb Rahamatullah Aleh'.",
+      "The district was carved out of Munger district in 1994.",
+      "The historic Arghauti Pokhar is a notable water body."
+    ],
+    "tourist_places": [
+      {
+        "name": "Makhdum Shah Shoeb Rahamatullah Aleh Dargah",
+        "location": "Sheikhpura, Bihar",
+        "location_coords": {
+          "latitude": 25.1384,
+          "longitude": 85.8507
+        }
+      }
+    ]
+  },
+  "Sheohar": {
+    "title": "Sheohar, Bihar",
+    "info": [
+      "The smallest district of Bihar by area and one of the most densely populated.",
+      "Created in 1994 from Sitamarhi district.",
+      "Its fertile land is crisscrossed by the Bagmati and Budhi Gandak rivers.",
+      "The economy is almost entirely based on agriculture.",
+      "The Deokuli Dham (Baba Bhaveshwarnath Temple) is a significant religious site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Deokuli Dham",
+        "location": "Sheohar, Bihar",
+        "location_coords": {
+          "latitude": 26.5165,
+          "longitude": 85.3023
+        }
+      }
+    ]
+  },
+  "Sitamarhi": {
+    "title": "Sitamarhi, Bihar",
+    "info": [
+      "A major Hindu pilgrimage center, revered as the birthplace of Goddess Sita.",
+      "The Janaki Mandir at Punaura Dham is considered the sanctified site of her birth.",
+      "The district shares a border with Nepal.",
+      "Its economy is primarily based on agriculture.",
+      "The Haleshwar Sthan is another important temple in the district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Janaki Mandir, Punaura Dham",
+        "location": "Punaura Dham, Sitamarhi, Bihar",
+        "location_coords": {
+          "latitude": 26.5756,
+          "longitude": 85.4673
+        }
+      }
+    ]
+  },
+  "Siwan": {
+    "title": "Siwan, Bihar",
+    "info": [
+      "Prominently known as the birthplace of India's first President, Dr. Rajendra Prasad.",
+      "Dr. Prasad's ancestral home is in Ziradei village, which is a place of national importance.",
+      "Located in western Bihar, bordering Uttar Pradesh.",
+      "Its economy is supported by agriculture and substantial remittances from workers in the Middle East.",
+      "The Mahendra Nath Temple is a notable local pilgrimage site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Dr. Rajendra Prasad's Ancestral Home",
+        "location": "Ziradei, Siwan, Bihar",
+        "location_coords": {
+          "latitude": 26.1557,
+          "longitude": 84.2483
+        }
+      }
+    ]
+  },
+  "Supaul": {
+    "title": "Supaul, Bihar",
+    "info": [
+      "Located in the heart of the Kosi division and is highly prone to flooding from the Kosi River.",
+      "The site of the Kosi Rail Mahasetu, a major engineering achievement that reconnected the Mithila region.",
+      "Separated from Saharsa district in 1991.",
+      "Its agrarian economy is dependent on paddy and makhana cultivation.",
+      "The district is part of the ancient Mithila region."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kosi Rail Mahasetu",
+        "location": "Supaul, Bihar",
+        "location_coords": {
+          "latitude": 26.1136,
+          "longitude": 86.6111
+        }
+      }
+    ]
+  },
+  "Vaishali": {
+    "title": "Vaishali, Bihar",
+    "info": [
+      "An important archaeological site, it was the capital of the Licchavi republic.",
+      "Considered one of the first republics in the world (c. 6th century BCE).",
+      "A revered site for Buddhists, as Lord Buddha preached his last sermon and announced his parinirvana here.",
+      "A revered site for Jains, as the birthplace of Lord Mahavira.",
+      "Key attractions include an Ashokan pillar with a lion capital and the Vishwa Shanti Stupa."
+    ],
+    "tourist_places": [
+      {
+        "name": "Ashokan Pillar",
+        "location": "Kolhua, Vaishali, Bihar",
+        "location_coords": {
+          "latitude": 26.0152,
+          "longitude": 85.1058
+        }
+      },
+      {
+        "name": "Vishwa Shanti Stupa",
+        "location": "Vaishali, Bihar",
+        "location_coords": {
+          "latitude": 25.9926,
+          "longitude": 85.1218
+        }
+      }
+    ]
+  },
+  "West Champaran": {
+    "title": "West Champaran, Bihar",
+    "info": [
+      "The largest district of Bihar by area, located on the India-Nepal border.",
+      "Its headquarters is Bettiah, the seat of the historic Bettiah Raj.",
+      "Home to the Valmiki National Park and Tiger Reserve, the only national park in Bihar.",
+      "Was a key center of Gandhi's Champaran Satyagraha movement.",
+      "The Bhitiharwa Ashram, established by Mahatma Gandhi, is a significant historical site."
+    ],
+    "tourist_places": [
+      {
+        "name": "Valmiki National Park and Tiger Reserve",
+        "location": "West Champaran, Bihar",
+        "location_coords": {
+          "latitude": 27.4332,
+          "longitude": 84.1485
+        }
+      }
+    ]
+  }
+}

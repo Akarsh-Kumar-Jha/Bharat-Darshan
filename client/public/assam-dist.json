@@ -1,0 +1,643 @@
+{
+  "Dhubri": {
+    "title": "Dhubri, Assam",
+    "info": [
+      "Located at the westernmost corner of Assam, bordering Bangladesh and West Bengal.",
+      "The Brahmaputra River flows through this district.",
+      "Known for the historic Gurdwara Sri Guru Teg Bahadur Sahib Ji.",
+      "The district has a rich biodiversity, with the Chakrasila Wildlife Sanctuary being home to the Golden Langur.",
+      "It is a significant river port and a hub for trade."
+    ],
+    "tourist_places": [
+      {
+        "name": "Gurdwara Sri Guru Teg Bahadur Sahib Ji",
+        "location": "Dhubri Town, Dhubri, Assam",
+        "location_coords": {
+          "latitude": 26.0263,
+          "longitude": 89.9723
+        }
+      }
+    ]
+  },
+  "Kokrajhar": {
+    "title": "Kokrajhar, Assam",
+    "info": [
+      "The headquarters of the Bodoland Territorial Region (BTR).",
+      "A significant portion of the Manas National Park, a UNESCO World Heritage Site, lies within this district.",
+      "It is the gateway to the northeastern region of India.",
+      "The district is inhabited by a large Bodo population.",
+      "Known for its rich flora and fauna."
+    ],
+    "tourist_places": [
+      {
+        "name": "Manas National Park (Part)",
+        "location": "Kokrajhar, Assam",
+        "location_coords": {
+          "latitude": 26.711,
+          "longitude": 90.932
+        }
+      }
+    ]
+  },
+  "Chirang": {
+    "title": "Chirang, Assam",
+    "info": [
+      "One of the four districts of the Bodoland Territorial Region (BTR).",
+      "The district headquarters is Kajalgaon.",
+      "Also shares a part of the Manas National Park, a tiger and elephant reserve.",
+      "The name is derived from the Garo word 'Chi' meaning water and 'Rang' meaning wealthy.",
+      "Its economy is primarily based on agriculture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kalamati",
+        "location": "Near Indo-Bhutan Border, Chirang, Assam",
+        "location_coords": {
+          "latitude": 26.783,
+          "longitude": 90.5
+        }
+      }
+    ]
+  },
+  "Baksa": {
+    "title": "Baksa, Assam",
+    "info": [
+      "Another district within the Bodoland Territorial Region (BTR).",
+      "The headquarters is at Mushalpur.",
+      "The district is home to the main entrance of the Manas National Park at Bansbari.",
+      "It is known for its scenic beauty and diverse ethnic groups.",
+      "Agriculture and horticulture are the primary economic activities."
+    ],
+    "tourist_places": [
+      {
+        "name": "Manas National Park (Bansbari Range)",
+        "location": "Bansbari, Baksa, Assam",
+        "location_coords": {
+          "latitude": 26.75,
+          "longitude": 91.0
+        }
+      }
+    ]
+  },
+  "Udalguri": {
+    "title": "Udalguri, Assam",
+    "info": [
+      "The fourth district of the Bodoland Territorial Region (BTR).",
+      "The headquarters is Udalguri town.",
+      "It shares an international border with Bhutan.",
+      "Known for its tea gardens and picturesque landscapes.",
+      "The district is home to various communities including Bodo, Adivasi, and Nepali."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bhairabkunda",
+        "location": "Near the border of Bhutan and Arunachal Pradesh, Udalguri, Assam",
+        "location_coords": {
+          "latitude": 26.9667,
+          "longitude": 92.1167
+        }
+      }
+    ]
+  },
+  "Darrang": {
+    "title": "Darrang, Assam",
+    "info": [
+      "The district headquarters is Mangaldoi.",
+      "Known for the Orang National Park, also referred to as 'Mini Kaziranga'.",
+      "Orang National Park is a tiger reserve and is famous for its one-horned rhinoceros population.",
+      "The district has a rich history and was a significant part of the Ahom kingdom.",
+      "Agriculture, particularly paddy and jute cultivation, is the mainstay of the economy."
+    ],
+    "tourist_places": [
+      {
+        "name": "Orang National Park",
+        "location": "Between Darrang and Sonitpur districts, Assam",
+        "location_coords": {
+          "latitude": 26.5667,
+          "longitude": 92.3667
+        }
+      }
+    ]
+  },
+  "Sonitpur": {
+    "title": "Sonitpur, Assam",
+    "info": [
+      "The district headquarters is Tezpur, known as the 'Cultural Capital of Assam'.",
+      "Tezpur has a rich mythological history associated with King Bana and the story of Usha and Aniruddha.",
+      "Home to the Nameri National Park, a popular destination for bird watching and angling.",
+      "The district is a major producer of tea in Assam.",
+      "The Agnigarh hill offers panoramic views of Tezpur and the Brahmaputra River."
+    ],
+    "tourist_places": [
+      {
+        "name": "Nameri National Park",
+        "location": "Near Tezpur, Sonitpur, Assam",
+        "location_coords": {
+          "latitude": 27.01,
+          "longitude": 92.79
+        }
+      },
+      {
+        "name": "Agnigarh",
+        "location": "Tezpur, Sonitpur, Assam",
+        "location_coords": {
+          "latitude": 26.635,
+          "longitude": 92.805
+        }
+      }
+    ]
+  },
+  "Lakhimpur": {
+    "title": "Lakhimpur, Assam",
+    "info": [
+      "The district headquarters is North Lakhimpur.",
+      "Located on the north bank of the Brahmaputra River.",
+      "The district is prone to floods from the Brahmaputra and its tributaries.",
+      "Primarily an agricultural district with rice as the main crop.",
+      "It shares a border with the state of Arunachal Pradesh."
+    ],
+    "tourist_places": [
+      {
+        "name": "Pabova Wildlife Sanctuary",
+        "location": "Near North Lakhimpur, Lakhimpur, Assam",
+        "location_coords": {
+          "latitude": 27.2333,
+          "longitude": 94.1333
+        }
+      }
+    ]
+  },
+  "Dhemaji": {
+    "title": "Dhemaji, Assam",
+    "info": [
+      "The district headquarters is Dhemaji town.",
+      "Located in the easternmost part of Assam, on the north bank of the Brahmaputra.",
+      "Highly susceptible to annual floods.",
+      "The Gerukamukh dam project on the Subansiri River is located here.",
+      "Inhabited by various ethnic groups including Mishing, Sonowal Kachari, and Deori."
+    ],
+    "tourist_places": [
+      {
+        "name": "Gerukamukh",
+        "location": "Dhemaji, Assam",
+        "location_coords": {
+          "latitude": 27.4667,
+          "longitude": 94.25
+        }
+      }
+    ]
+  },
+  "Tinsukia": {
+    "title": "Tinsukia, Assam",
+    "info": [
+      "The district headquarters is Tinsukia town, a major commercial hub.",
+      "Known for the Dibru-Saikhowa National Park, a biosphere reserve famous for its feral horses.",
+      "Digboi, the oldest oil refinery in Asia, is located in this district.",
+      "The historic Stilwell Road from World War II starts from Ledo in this district.",
+      "It is a major tea and oil-producing district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Dibru-Saikhowa National Park",
+        "location": "Near Tinsukia, Tinsukia, Assam",
+        "location_coords": {
+          "latitude": 27.6667,
+          "longitude": 95.3333
+        }
+      },
+      {
+        "name": "Digboi Oil Refinery",
+        "location": "Digboi, Tinsukia, Assam",
+        "location_coords": {
+          "latitude": 27.3833,
+          "longitude": 95.6167
+        }
+      }
+    ]
+  },
+  "Dibrugarh": {
+    "title": "Dibrugarh, Assam",
+    "info": [
+      "Known as the 'Tea City of India'.",
+      "The district headquarters is Dibrugarh town.",
+      "It is a major center for the tea industry and has the highest tea production in India.",
+      "The Brahmaputra Cracker and Polymer Limited (BCPL) is a major industrial project here.",
+      "The Bogibeel Bridge, India's longest rail-road bridge, connects Dibrugarh with Dhemaji."
+    ],
+    "tourist_places": [
+      {
+        "name": "Dehing Patkai National Park (Part)",
+        "location": "Dibrugarh, Assam",
+        "location_coords": {
+          "latitude": 27.27,
+          "longitude": 95.58
+        }
+      }
+    ]
+  },
+  "Sivasagar": {
+    "title": "Sivasagar, Assam",
+    "info": [
+      "The district was the capital of the Ahom Kingdom for over 600 years.",
+      "Rich in historical monuments, including the Rang Ghar, Talatal Ghar, and Kareng Ghar.",
+      "The Sivasagar Tank (Borpukhuri), an artificial lake, is a prominent landmark.",
+      "The district has numerous oil fields and is a center for the oil industry.",
+      "The headquarters, Sivasagar town, is built around the historic tank."
+    ],
+    "tourist_places": [
+      {
+        "name": "Rang Ghar",
+        "location": "Sivasagar, Assam",
+        "location_coords": {
+          "latitude": 26.973,
+          "longitude": 94.621
+        }
+      },
+      {
+        "name": "Talatal Ghar",
+        "location": "Sivasagar, Assam",
+        "location_coords": {
+          "latitude": 26.963,
+          "longitude": 94.62
+        }
+      }
+    ]
+  },
+  "Charaideo": {
+    "title": "Charaideo, Assam",
+    "info": [
+      "Carved out of Sivasagar district in 2015.",
+      "The first capital of the Ahom Kingdom, established by founder Sukaphaa.",
+      "Known for the Charaideo Maidams, the burial mounds of Ahom kings and queens.",
+      "Often referred to as the 'Pyramids of Assam'.",
+      "The headquarters is at Sonari."
+    ],
+    "tourist_places": [
+      {
+        "name": "Charaideo Maidams",
+        "location": "Charaideo, Assam",
+        "location_coords": {
+          "latitude": 26.9333,
+          "longitude": 94.8833
+        }
+      }
+    ]
+  },
+  "Jorhat": {
+    "title": "Jorhat, Assam",
+    "info": [
+      "Known as the 'Cultural Capital of Assam' and 'Tea Capital of the World'.",
+      "The last capital of the Ahom Kingdom.",
+      "Home to Majuli, the world's largest river island (now a separate district).",
+      "The Tocklai Tea Research Institute is the oldest and largest tea research station in the world.",
+      "The Gibbon Wildlife Sanctuary is famous for being home to the Hoolock Gibbon."
+    ],
+    "tourist_places": [
+      {
+        "name": "Hoollongapar Gibbon Sanctuary",
+        "location": "Near Jorhat, Jorhat, Assam",
+        "location_coords": {
+          "latitude": 26.75,
+          "longitude": 94.3833
+        }
+      }
+    ]
+  },
+  "Majuli": {
+    "title": "Majuli, Assam",
+    "info": [
+      "The largest river island in the world, situated in the Brahmaputra River.",
+      "Became a district in 2016, making it India's first island district.",
+      "A major center of Vaishnavite culture, with numerous 'Sattras' (monasteries).",
+      "The island is facing significant erosion from the Brahmaputra.",
+      "Accessible by ferry from Jorhat."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kamalabari Satra",
+        "location": "Majuli, Assam",
+        "location_coords": {
+          "latitude": 26.9333,
+          "longitude": 94.2167
+        }
+      }
+    ]
+  },
+  "Golaghat": {
+    "title": "Golaghat, Assam",
+    "info": [
+      "The headquarters is Golaghat town.",
+      "A major portion of the Kaziranga National Park falls within this district.",
+      "Kaziranga is a UNESCO World Heritage Site, famous for its one-horned rhinoceros population.",
+      "The district is a significant tea-producing region.",
+      "The Numaligarh Refinery is a major industrial unit in the district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kaziranga National Park (Part)",
+        "location": "Golaghat, Assam",
+        "location_coords": {
+          "latitude": 26.6667,
+          "longitude": 93.3667
+        }
+      }
+    ]
+  },
+  "Nagaon": {
+    "title": "Nagaon, Assam",
+    "info": [
+      "One of the most populous districts of Assam.",
+      "The headquarters is Nagaon town.",
+      "The birthplace of Srimanta Sankardev, the great Vaishnavite saint, is at Bordowa.",
+      "A part of the Kaziranga National Park is in this district.",
+      "Known for its agricultural produce, particularly rice."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bordowa Than (Birthplace of Sankardev)",
+        "location": "Bordowa, Nagaon, Assam",
+        "location_coords": {
+          "latitude": 26.4333,
+          "longitude": 92.6167
+        }
+      }
+    ]
+  },
+  "Karbi Anglong": {
+    "title": "Karbi Anglong, Assam",
+    "info": [
+      "The largest district of Assam by area.",
+      "The headquarters is at Diphu.",
+      "It is an autonomous district governed by the Karbi Anglong Autonomous Council.",
+      "Inhabited predominantly by the Karbi people.",
+      "Known for its rich forests, hills, and ginger production."
+    ],
+    "tourist_places": [
+      {
+        "name": "Diphu",
+        "location": "Diphu, Karbi Anglong, Assam",
+        "location_coords": {
+          "latitude": 25.8333,
+          "longitude": 93.4333
+        }
+      }
+    ]
+  },
+  "West Karbi Anglong": {
+    "title": "West Karbi Anglong, Assam",
+    "info": [
+      "Carved out of Karbi Anglong district in 2016.",
+      "The district headquarters is at Hamren.",
+      "Also part of the Karbi Anglong Autonomous Council.",
+      "Known for its scenic beauty and waterfalls, such as Koka.",
+      "The Amreng river flows through the district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Koka Falls",
+        "location": "Near Hamren, West Karbi Anglong, Assam",
+        "location_coords": {
+          "latitude": 26.01,
+          "longitude": 92.54
+        }
+      }
+    ]
+  },
+  "Dima Hasao": {
+    "title": "Dima Hasao, Assam",
+    "info": [
+      "Formerly known as North Cachar Hills.",
+      "The headquarters is at Haflong, the only hill station in Assam.",
+      "It is an autonomous district, predominantly inhabited by the Dimasa people.",
+      "Jatinga is famous for the mysterious phenomenon of birds 'committing suicide'.",
+      "The district is rich in limestone and coal reserves."
+    ],
+    "tourist_places": [
+      {
+        "name": "Haflong Lake",
+        "location": "Haflong, Dima Hasao, Assam",
+        "location_coords": {
+          "latitude": 25.17,
+          "longitude": 93.01
+        }
+      },
+      {
+        "name": "Jatinga",
+        "location": "Near Haflong, Dima Hasao, Assam",
+        "location_coords": {
+          "latitude": 25.11,
+          "longitude": 92.98
+        }
+      }
+    ]
+  },
+  "Cachar": {
+    "title": "Cachar, Assam",
+    "info": [
+      "The headquarters is Silchar, the main commercial hub of the Barak Valley region.",
+      "The district was the capital of the Kachari kingdom.",
+      "The Barak River is the main river of the district.",
+      "The Bhuban Hills are a pilgrimage site for Hindus.",
+      "The district has a majority Bengali-speaking population."
+    ],
+    "tourist_places": [
+      {
+        "name": "Khaspur (Dimasa Kingdom Ruins)",
+        "location": "Near Silchar, Cachar, Assam",
+        "location_coords": {
+          "latitude": 24.8,
+          "longitude": 92.9667
+        }
+      }
+    ]
+  },
+  "Hailakandi": {
+    "title": "Hailakandi, Assam",
+    "info": [
+      "One of the three districts of the Barak Valley.",
+      "The headquarters is Hailakandi town.",
+      "The district is primarily agricultural, with rice and jute as major crops.",
+      "It has a significant Muslim population.",
+      "The Inner Line Forest Reserve is a protected area in the district."
+    ],
+    "tourist_places": []
+  },
+  "Karimganj": {
+    "title": "Karimganj, Assam",
+    "info": [
+      "Located in the southernmost part of Assam, in the Barak Valley.",
+      "Shares an international border with Bangladesh.",
+      "The headquarters is Karimganj town.",
+      "The Kushiara River flows along the border.",
+      "The district has historical significance from the British era."
+    ],
+    "tourist_places": []
+  },
+  "Kamrup Metropolitan": {
+    "title": "Kamrup Metropolitan, Assam",
+    "info": [
+      "Home to Guwahati, the largest city in Assam and the gateway to Northeast India.",
+      "The district is an administrative, commercial, and educational hub.",
+      "Famous for the Kamakhya Temple, a major Shakti Peeth and pilgrimage site.",
+      "The Assam State Museum and Srimanta Sankaradeva Kalakshetra are located here.",
+      "The Brahmaputra River flows through the city."
+    ],
+    "tourist_places": [
+      {
+        "name": "Kamakhya Temple",
+        "location": "Guwahati, Kamrup Metropolitan, Assam",
+        "location_coords": {
+          "latitude": 26.1667,
+          "longitude": 91.7056
+        }
+      }
+    ]
+  },
+  "Kamrup": {
+    "title": "Kamrup, Assam",
+    "info": [
+      "The district was bifurcated to create Kamrup Metropolitan.",
+      "The headquarters is at Amingaon.",
+      "The historic town of Hajo is a unique pilgrimage center for Hindus, Muslims, and Buddhists.",
+      "Sualkuchi, known as the 'Manchester of Assam', is a major center for silk weaving.",
+      "The district has a primarily rural and agrarian economy."
+    ],
+    "tourist_places": [
+      {
+        "name": "Hajo",
+        "location": "Kamrup, Assam",
+        "location_coords": {
+          "latitude": 26.25,
+          "longitude": 91.5333
+        }
+      },
+      {
+        "name": "Sualkuchi",
+        "location": "Kamrup, Assam",
+        "location_coords": {
+          "latitude": 26.1667,
+          "longitude": 91.5667
+        }
+      }
+    ]
+  },
+  "Nalbari": {
+    "title": "Nalbari, Assam",
+    "info": [
+      "The headquarters is Nalbari town.",
+      "Known for its rich tradition of Sanskrit learning and was called 'Nabab Nalbari'.",
+      "The Hari Mandir in Nalbari town is a major religious center.",
+      "The annual Raas festival is celebrated with great fervor here.",
+      "The economy is predominantly based on agriculture."
+    ],
+    "tourist_places": [
+      {
+        "name": "Hari Mandir",
+        "location": "Nalbari, Assam",
+        "location_coords": {
+          "latitude": 26.45,
+          "longitude": 91.4333
+        }
+      }
+    ]
+  },
+  "Barpeta": {
+    "title": "Barpeta, Assam",
+    "info": [
+      "The headquarters is Barpeta town.",
+      "Famous for the Barpeta Satra, a prominent Vaishnavite monastery established by Madhavdev.",
+      "Known as the 'Land of the Sattras'.",
+      "The district is also known for its traditional firecracker and brass metal industries.",
+      "A portion of Manas National Park falls in this district."
+    ],
+    "tourist_places": [
+      {
+        "name": "Barpeta Satra",
+        "location": "Barpeta, Assam",
+        "location_coords": {
+          "latitude": 26.3167,
+          "longitude": 91.0
+        }
+      }
+    ]
+  },
+  "Bongaigaon": {
+    "title": "Bongaigaon, Assam",
+    "info": [
+      "The headquarters is Bongaigaon town.",
+      "It is a major industrial center in Assam with a petrochemical complex and refinery.",
+      "The district was carved out of Goalpara and Kokrajhar districts.",
+      "The Bagheswari Temple is a notable pilgrimage site.",
+      "The region has a mix of Assamese, Bengali, and Bodo cultures."
+    ],
+    "tourist_places": [
+      {
+        "name": "Bagheswari Temple",
+        "location": "Bongaigaon, Assam",
+        "location_coords": {
+          "latitude": 26.4667,
+          "longitude": 90.5667
+        }
+      }
+    ]
+  },
+  "Goalpara": {
+    "title": "Goalpara, Assam",
+    "info": [
+      "The headquarters is Goalpara town.",
+      "Located on the south bank of the Brahmaputra River.",
+      "Known for its historical sites like the Surya Pahar, which has remains of Hindu, Buddhist, and Jain cultures.",
+      "The district is inhabited by various communities including Rabha, Garo, and Bodo.",
+      "The economy is mainly agrarian."
+    ],
+    "tourist_places": [
+      {
+        "name": "Surya Pahar",
+        "location": "Near Goalpara, Goalpara, Assam",
+        "location_coords": {
+          "latitude": 26.0833,
+          "longitude": 90.6333
+        }
+      }
+    ]
+  },
+  "South Salmara-Mankachar": {
+    "title": "South Salmara-Mankachar, Assam",
+    "info": [
+      "The newest district of Assam, created in 2016.",
+      "The headquarters is at Hatsingimari.",
+      "The district is riverine, located on the south bank of the Brahmaputra.",
+      "It shares a long border with Bangladesh.",
+      "The economy is heavily dependent on agriculture and fishing."
+    ],
+    "tourist_places": []
+  },
+  "Morigaon": {
+    "title": "Morigaon, Assam",
+    "info": [
+      "The headquarters is Morigaon town.",
+      "Known for the Pobitora Wildlife Sanctuary, which has the highest density of one-horned rhinos in the world.",
+      "The historic site of Mayong is famous for its association with magic and witchcraft.",
+      "The Jonbeel Mela, a traditional fair with a barter system, is held annually.",
+      "The district is inhabited by the Tiwa (Lalung) community."
+    ],
+    "tourist_places": [
+      {
+        "name": "Pobitora Wildlife Sanctuary",
+        "location": "Morigaon, Assam",
+        "location_coords": {
+          "latitude": 26.2333,
+          "longitude": 92.0667
+        }
+      },
+      {
+        "name": "Mayong",
+        "location": "Morigaon, Assam",
+        "location_coords": {
+          "latitude": 26.25,
+          "longitude": 92.15
+        }
+      }
+    ]
+  }
+}

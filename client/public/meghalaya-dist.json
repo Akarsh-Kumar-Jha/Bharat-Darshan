@@ -1,0 +1,237 @@
+{
+  "East Khasi Hills": {
+    "title": "East Khasi Hills, Meghalaya",
+    "info": [
+      "Home to Shillong, the state capital, often referred to as the 'Scotland of the East'.",
+      "Features Cherrapunji (Sohra) and Mawsynram, which are among the wettest places on Earth.",
+      "Known for its stunning waterfalls like Nohkalikai Falls and Elephant Falls.",
+      "The district is famous for its living root bridges, a unique bio-engineering marvel.",
+      "Inhabited predominantly by the Khasi tribe."
+    ],
+    "tourist_places": [
+      {
+        "name": "Nohkalikai Falls",
+        "location": "Near Cherrapunji, East Khasi Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.2811,
+          "longitude": 91.6883
+        }
+      },
+      {
+        "name": "Double Decker Living Root Bridge",
+        "location": "Nongriat Village, Near Cherrapunji, East Khasi Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.2536,
+          "longitude": 91.6708
+        }
+      }
+    ]
+  },
+  "West Khasi Hills": {
+    "title": "West Khasi Hills, Meghalaya",
+    "info": [
+      "The largest district in Meghalaya by area.",
+      "The district headquarters is at Nongstoin.",
+      "Known for its rich deposits of minerals like coal and limestone.",
+      "The region has picturesque landscapes with hills, valleys, and rivers.",
+      "Nongkhnum River Island, the second largest river island in Asia, is a major attraction."
+    ],
+    "tourist_places": [
+      {
+        "name": "Nongkhnum River Island",
+        "location": "Near Nongstoin, West Khasi Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.6667,
+          "longitude": 91.25
+        }
+      }
+    ]
+  },
+  "East Jaintia Hills": {
+    "title": "East Jaintia Hills, Meghalaya",
+    "info": [
+      "Carved out of the Jaintia Hills district in 2012.",
+      "The district headquarters is at Khliehriat.",
+      "Known for its extensive network of caves, including Krem Liat Prah, the longest natural cave in India.",
+      "The district is rich in coal and limestone reserves, leading to significant mining activities.",
+      "Inhabited by the Jaintia (Pnar) people."
+    ],
+    "tourist_places": [
+      {
+        "name": "Krem Liat Prah",
+        "location": "Shnongrim Ridge, East Jaintia Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.2833,
+          "longitude": 92.4
+        }
+      }
+    ]
+  },
+  "West Jaintia Hills": {
+    "title": "West Jaintia Hills, Meghalaya",
+    "info": [
+      "The district headquarters is Jowai.",
+      "Home to the Nartiang Monoliths, the largest collection of monoliths in a single area.",
+      "The Krang Suri waterfall is one of the most beautiful and popular waterfalls in Meghalaya.",
+      "The Syntu Ksiar, a vast pool on the Myntdu River, is a significant local site.",
+      "Inhabited by the Jaintia (Pnar) tribe, known for their unique culture and the Behdeinkhlam festival."
+    ],
+    "tourist_places": [
+      {
+        "name": "Krang Suri Falls",
+        "location": "Near Jowai, West Jaintia Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.483,
+          "longitude": 92.216
+        }
+      },
+      {
+        "name": "Nartiang Monoliths",
+        "location": "Nartiang, West Jaintia Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.559,
+          "longitude": 92.218
+        }
+      }
+    ]
+  },
+  "Ribhoi": {
+    "title": "Ri-Bhoi, Meghalaya",
+    "info": [
+      "Often considered the gateway to Meghalaya as it borders Assam.",
+      "The district headquarters is at Nongpoh.",
+      "Known for the Umiam Lake (Barapani), a vast man-made reservoir and a major tourist attraction.",
+      "The district is a hub for pineapple cultivation.",
+      "The Lum Nehru Park, located near Umiam Lake, is a popular picnic spot."
+    ],
+    "tourist_places": [
+      {
+        "name": "Umiam Lake (Barapani)",
+        "location": "Near Shillong, Ri-Bhoi, Meghalaya",
+        "location_coords": {
+          "latitude": 25.6833,
+          "longitude": 91.8833
+        }
+      }
+    ]
+  },
+  "West Garo Hills": {
+    "title": "West Garo Hills, Meghalaya",
+    "info": [
+      "The headquarters, Tura, is the largest town in the Garo Hills region.",
+      "Home to Nokrek Biosphere Reserve, a UNESCO World Heritage Site.",
+      "Nokrek Peak is the highest point in the Garo Hills.",
+      "The district is predominantly inhabited by the Garo tribe.",
+      "The Wangala (Hundred Drums) festival is the most important festival of the Garos."
+    ],
+    "tourist_places": [
+      {
+        "name": "Nokrek Biosphere Reserve",
+        "location": "West Garo Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.5167,
+          "longitude": 90.35
+        }
+      }
+    ]
+  },
+  "East Garo Hills": {
+    "title": "East Garo Hills, Meghalaya",
+    "info": [
+      "The district headquarters is Williamnagar, named after the first Chief Minister of Meghalaya.",
+      "The Simsang River, the longest river in the Garo Hills, flows through this district.",
+      "Known for its rich biodiversity and dense forests.",
+      "Dominated by the Garo tribal community.",
+      "The region has several historical and mythological sites."
+    ],
+    "tourist_places": [
+      {
+        "name": "Domre Falls",
+        "location": "Near Williamnagar, East Garo Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.6,
+          "longitude": 90.7
+        }
+      }
+    ]
+  },
+  "South Garo Hills": {
+    "title": "South Garo Hills, Meghalaya",
+    "info": [
+      "Known for the Balpakram National Park, famous for its unique landscape and biodiversity.",
+      "Balpakram is often referred to as the 'Land of Spirits' and is steeped in Garo mythology.",
+      "The Siju Cave (Bat Cave) is one of the longest cave systems in the Indian subcontinent.",
+      "The district headquarters is at Baghmara.",
+      "It is a hotspot for wildlife, including elephants, tigers, and rare species of birds."
+    ],
+    "tourist_places": [
+      {
+        "name": "Balpakram National Park",
+        "location": "South Garo Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.1833,
+          "longitude": 90.8333
+        }
+      },
+      {
+        "name": "Siju Cave",
+        "location": "Near Siju, South Garo Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.35,
+          "longitude": 90.6833
+        }
+      }
+    ]
+  },
+  "North Garo Hills": {
+    "title": "North Garo Hills, Meghalaya",
+    "info": [
+      "Carved out of the East Garo Hills district in 2012.",
+      "The district headquarters is at Resubelpara.",
+      "Known for its rubber and tea plantations.",
+      "The region has several picturesque waterfalls and streams.",
+      "The area is predominantly inhabited by the Garo people."
+    ],
+    "tourist_places": [
+      {
+        "name": "Naphak Lake",
+        "location": "Near Resubelpara, North Garo Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.8667,
+          "longitude": 90.6
+        }
+      }
+    ]
+  },
+  "South West Khasi Hills": {
+    "title": "South West Khasi Hills, Meghalaya",
+    "info": [
+      "Created in 2012 by bifurcating the West Khasi Hills district.",
+      "The district headquarters is at Mawkyrwat.",
+      "Known for its rugged terrain and rich uranium deposits.",
+      "The region is culturally rich with Khasi traditions.",
+      "It has a long international border with Bangladesh."
+    ],
+    "tourist_places": [
+      {
+        "name": "Jakrem Hot Springs",
+        "location": "Near Mawkyrwat, South West Khasi Hills, Meghalaya",
+        "location_coords": {
+          "latitude": 25.35,
+          "longitude": 91.5
+        }
+      }
+    ]
+  },
+  "South West Garo Hills": {
+    "title": "South West Garo Hills, Meghalaya",
+    "info": [
+      "One of the newest districts, created in 2012 from West Garo Hills.",
+      "The district headquarters is at Ampati.",
+      "The district has a large plain area bordering Bangladesh.",
+      "It is an important region for agriculture and trade with Bangladesh.",
+      "The area is predominantly inhabited by the Garo tribe."
+    ],
+    "tourist_places": []
+  }
+}
