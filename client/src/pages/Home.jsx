@@ -1,11 +1,12 @@
 import React, { useRef } from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { motion, useInView } from "framer-motion";
 import FeatureCard from "../components/ui/FeatureCard";
 import { FocusCards } from "@/components/ui/focus-cards";
+import { MdArrowOutward } from "react-icons/md";
 
 // Slider settings
 const settings = {
@@ -77,6 +78,7 @@ function Home() {
    console.log("isInView", isInView);
    const destRef = useRef(null);
    const destInView = useInView(destRef, { once: true });
+   const navigate = useNavigate();
 
   return (
     <motion.div
@@ -89,114 +91,132 @@ function Home() {
         backgroundSize: "20px 20px",
       }}
     >
-      <section
-        id="Hero"
-        className="h-screen w-full flex flex-col md:flex-row items-center justify-between overflow-hidden"
-      >
-        {/* Left Side */}
-        <div className="w-full md:w-[50%] h-full flex flex-col">
-          {/* Navbar */}
-          <div className="flex justify-between items-center h-[10vh] px-5 mt-5">
-            <div className="size-50">
-              <img
-                className="h-full w-full object-contain"
-                src="https://res.cloudinary.com/dlnzbkyit/image/upload/v1758636663/Gemini_Generated_Image_9odpi09odpi09odp__1_-removebg-preview_eu3myl.png"
-                alt="Logo"
-              />
-            </div>
-
-            <nav className="flex flex-row gap-x-6">
-              {navItems.map((item, index) => (
-                <NavLink
-                  key={index}
-                  to={item.to}
-                  className={({isActive}) => isActive ? "text-green-400" : "text-sm font-medium text-white hover:text-indigo-400"}
-                >
-                  {item.name}
-                </NavLink>
-              ))}
-            </nav>
-
-            <div>
-              <img
-                className="w-10 h-10 rounded-full"
-                src="https://api.dicebear.com/9.x/initials/svg?seed=Felix"
-                alt="User Avatar"
-              />
-            </div>
-          </div>
-
-          {/* Hero Text */}
-          <div className="flex-1 w-[95%] mx-auto flex flex-col justify-center items-start gap-7 text-center px-4">
-            <motion.h1 
-            initial={{ opacity: 0,x:-100 }}
-            animate={{ opacity: 1,x:0 }}
-            transition={{ duration: 1.2, ease: "easeInOut"}}
-            className="text-5xl md:text-6xl text-shadow-lg lg:text-7xl selection:text-green-400 font-bold text-left text-white tracking-tighter">
-              India Awaits <br />
-              <span className="text-[#FF6B35]">Your Discovery</span>
-            </motion.h1>
-            <motion.p
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 1.2, ease: "easeInOut"}}
-            className="text-lg font-semibold bg-clip-text text-gray-400 selection:text-white">
-              Embark on an unforgettable journey across India’s vibrant
-              landscapes, from bustling cities to serene villages, majestic
-              mountains to tranquil backwaters, and timeless heritage to modern
-              marvels — experience the true spirit of Bharat with every step.
-            </motion.p>
-          </div>
-        </div>
-
-        {/* Right Side (Slider) */}
-        <div className="w-full md:w-[50%] h-[60vh] md:h-full flex justify-center items-center">
-          <Slider
-            className="w-[90%] h-[90%] rounded-2xl overflow-hidden bg-gray-700"
-            {...settings}
-          >
-            <div className="h-full w-full">
-              <img
-                className="h-full w-full object-cover object-center"
-                src="https://i.pinimg.com/1200x/8b/62/94/8b629436253c83f7bb804acc9e3f7e6c.jpg"
-                alt="Scenic India 1"
-              />
-            </div>
-            <div className="h-full w-full">
-              <img
-                className="h-full w-full object-cover object-center"
-                src="https://images.unsplash.com/photo-1677700435970-1c76d7198eac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEtlcmVsYXxlbnwwfDJ8MHx8fDA%3D"
-                alt="Scenic India 2"
-              />
-            </div>
-            <div className="h-full w-full">
-              <img
-                className="h-full w-full object-cover object-center"
-                src="https://images.unsplash.com/photo-1730038984644-efa04e4db45d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fGhpbWFsYXlhc3xlbnwwfDJ8MHx8fDA%3D"
-                alt="Scenic India 3"
-              />
-            </div>
-            <div className="h-full w-full">
-              <img
-                className="h-full w-full object-cover object-center"
-                src="https://images.unsplash.com/photo-1540248925259-92984576b034?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGluZGlhJTIwdG91cmlzbXxlbnwwfDJ8MHx8fDA%3D"
-                alt="Scenic India 3"
-              />
-            </div>
-          </Slider>
-        </div>
-      </section>
-
-   <section 
-  ref={ref} 
-  className="h-screen mt-12 w-full flex flex-col items-center justify-between overflow-hidden"
+   <section
+  id="Hero"
+  className="h-screen w-full flex flex-col md:flex-row items-center justify-between overflow-hidden"
 >
-  <div className="w-full md:w-[50%] flex flex-col justify-center items-center gap-y-5 py-5">
+  {/* Left Side */}
+  <div className="w-full h-[100%] md:w-[50%] flex flex-col justify-between items-center">
+    {/* Navbar */}
+    <div className="flex justify-between items-center h-[10vh] w-full px-4 sm:px-5 mt-3 sm:mt-5">
+      <div className="md:h-[100px] md:w-[150px] sm:w-24 sm:h-12">
+        <img
+          className="w-[100%] h-[100%] object-cover"
+          src="https://res.cloudinary.com/dlnzbkyit/image/upload/v1758636663/Gemini_Generated_Image_9odpi09odpi09odp__1_-removebg-preview_eu3myl.png"
+          alt="Logo"
+        />
+      </div>
+
+      <nav className="hidden md:flex flex-row gap-x-6">
+        {navItems.map((item, index) => (
+          <NavLink
+            key={index}
+            to={item.to}
+            className={({ isActive }) =>
+              isActive
+                ? "text-green-400"
+                : "text-sm font-medium text-white hover:text-indigo-400"
+            }
+          >
+            {item.name}
+          </NavLink>
+        ))}
+      </nav>
+
+      <div>
+        <img
+          className="w-8 h-8 sm:w-10 sm:h-10 rounded-full"
+          src="https://api.dicebear.com/9.x/initials/svg?seed=Akarsh Kumar"
+          alt="User Avatar"
+        />
+      </div>
+    </div>
+
+    {/* Hero Text */}
+    <div className="flex-1 w-[95%] mx-auto flex flex-col justify-center items-start gap-5 sm:gap-7 px-3 sm:px-4">
+      <motion.h1
+        initial={{ opacity: 0, x: -100 }}
+        animate={{ opacity: 1, x: 0 }}
+        transition={{ duration: 1.2, ease: "easeInOut" }}
+        className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl text-shadow-lg selection:text-green-400 font-bold text-left text-white tracking-tight"
+      >
+        India Awaits <br />
+        <span className="text-[#FF6B35]">Your Discovery</span>
+      </motion.h1>
+      <motion.p
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 1.2, ease: "easeInOut" }}
+        className="text-sm sm:text-base md:text-lg font-semibold text-gray-400 selection:text-white text-left"
+      >
+        Embark on an unforgettable journey across India’s vibrant landscapes,
+        from bustling cities to serene villages, majestic mountains to tranquil
+        backwaters, and timeless heritage to modern marvels — experience the
+        true spirit of Bharat with every step.
+      </motion.p>
+
+      <div className="flex flex-row gap-4 justify-center items-center">
+        <button className="px-3 py-2 rounded-2xl bg-white font-semibold cursor-pointer hover:bg-white/90 transition-all duration-100 ease-in">
+Get Started
+          </button>
+          <button onClick={() => window.location.href = 'https://pujaparikrama.online/'} className="px-4 py-2 rounded-2xl flex flex-row items-center gap-2 justify-center bg-[#FF6B35] font-semibold text-white cursor-pointer hover:bg-orange-400 transition-all duration-100 ease-in">
+Experience Our Product: Puja-Parikrama <MdArrowOutward />
+          </button>
+
+      </div>
+    </div>
+  </div>
+
+  {/* Right Side (Slider) */}
+  <div className="w-full md:w-[50%] h-[40vh] sm:h-[50vh] md:h-[90vh] flex justify-center items-center mt-6 md:mt-0">
+    <Slider
+      className="w-full sm:w-[90%] h-full rounded-2xl overflow-hidden bg-gray-700"
+      {...settings}
+    >
+      <div className="h-full w-full">
+        <img
+          className="h-full w-full object-cover"
+          src="https://i.pinimg.com/1200x/8b/62/94/8b629436253c83f7bb804acc9e3f7e6c.jpg"
+          alt="Scenic India 1"
+        />
+      </div>
+      <div className="h-full w-full">
+        <img
+          className="h-full w-full object-cover"
+          src="https://images.unsplash.com/photo-1677700435970-1c76d7198eac?w=600&auto=format&fit=crop&q=60"
+          alt="Scenic India 2"
+        />
+      </div>
+      <div className="h-full w-full">
+        <img
+          className="h-full w-full object-cover"
+          src="https://images.unsplash.com/photo-1730038984644-efa04e4db45d?w=600&auto=format&fit=crop&q=60"
+          alt="Scenic India 3"
+        />
+      </div>
+      <div className="h-full w-full">
+        <img
+          className="h-full w-full object-cover"
+          src="https://images.unsplash.com/photo-1540248925259-92984576b034?w=600&auto=format&fit=crop&q=60"
+          alt="Scenic India 4"
+        />
+      </div>
+    </Slider>
+  </div>
+</section>
+
+
+<section
+  ref={ref}
+  className="w-full flex flex-col items-center overflow-hidden px-4 sm:px-6"
+>
+  {/* Heading */}
+  <div className="w-full md:w-[50%] flex flex-col justify-center items-center gap-y-2 sm:gap-y-4 py-2 sm:py-4">
     <motion.h2
       initial={{ opacity: 0, x: -100 }}
       animate={isInView ? { opacity: 1, x: 0 } : {}}
       transition={{ duration: 1.2 }}
-      className="text-3xl md:text-5xl font-bold text-center text-white tracking-tighter"
+      className="text-2xl sm:text-3xl md:text-5xl font-bold text-center selection:text-green-400 text-white tracking-tighter"
     >
       Why Choose <span className="text-[#FF6B35]">Bharat Darshan?</span>
     </motion.h2>
@@ -204,30 +224,28 @@ function Home() {
       initial={{ opacity: 0 }}
       animate={isInView ? { opacity: 1 } : {}}
       transition={{ duration: 1.2 }}
-      className="text-xl md:text-2xl text-center text-stone-400 max-w-3xl"
+      className="text-sm sm:text-base md:text-2xl text-center text-stone-400 max-w-full sm:max-w-2xl md:max-w-3xl"
     >
       “Discover travel experiences that are curated to bring you closer to the culture, history, and beauty of India.”
     </motion.p>
   </div>
 
-  <div className="mt-16 w-full md:w-[80%] grid grid-cols-1 sm:grid-cols-2 gap-x-10 gap-y-14 mb-auto">
+  {/* Cards */}
+  <div className="mt-4 md:mt-16 w-full md:w-[80%] grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-4 md:gap-x-10 md:gap-y-14">
     {Features_list?.map((feature, index) => (
-      <FeatureCard isInView={isInView} key={index} index={index} title={feature.title} description={feature.description} />
-      // <motion.div
-      //   key={index}
-      //   initial={{ opacity: 0, y: 50 }}
-      //   animate={isInView ? { opacity: 1, y: 0 } : {}}
-      //   transition={{ duration: 0.8, delay: index * 0.2 }}
-      //   className="bg-white/5 backdrop-blur-md rounded-2xl p-6 flex flex-col gap-3 border border-white/10 hover:scale-105 transition-transform duration-300 cursor-pointer shadow-lg"
-      // >
-      //   <h3 className="text-xl md:text-2xl font-semibold text-white flex items-center gap-2">
-      //     {feature.title}
-      //   </h3>
-      //   <p className="text-stone-400 text-base md:text-lg">{feature.description}</p>
-      // </motion.div>
+      <FeatureCard
+        key={index}
+        index={index}
+        title={feature.title}
+        description={feature.description}
+        isInView={isInView}
+        className="h-[calc((100vh-8rem)/4)] sm:h-[calc((100vh-8rem)/4)] md:h-auto"
+      />
     ))}
   </div>
 </section>
+
+
 
 
 <section ref={destRef} className="min-h-screen relative mt-12 w-full flex flex-col items-center justify-center overflow-hidden">
@@ -236,7 +254,7 @@ function Home() {
       initial={{ opacity: 0, x: -100 }}
       animate={destInView ? { opacity: 1, x: 0 } : {}}
       transition={{ duration: 1.2 }} 
-      className="text-3xl md:text-5xl font-bold text-center text-white tracking-tighter">“Celebrate the Colors of <span className="text-[#FF6B35]">India</span>”</motion.h2>
+      className="text-3xl md:text-5xl selection:text-green-400 font-bold text-center text-white tracking-tighter">“Celebrate the Colors of <span className="text-[#FF6B35]">India</span>”</motion.h2>
       <motion.p
       initial={{ opacity: 0 }}
       animate={destInView ? { opacity: 1 } : {}}
