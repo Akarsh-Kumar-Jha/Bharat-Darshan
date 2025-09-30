@@ -186,7 +186,6 @@ Get Started
           <button onClick={() => window.location.href = 'https://pujaparikrama.online/'} className="md:px-3 md:py-2 px-2 py-1 rounded-2xl  md:font-semibold font-medium md:text-lg text-xs flex flex-row items-center gap-2 justify-center bg-[#FF6B35] text-white cursor-pointer hover:bg-orange-400 transition-all duration-100 ease-in">
 Experience Our Product: Puja-Parikrama <MdArrowOutward />
           </button>
-
       </div>
     </div>
   </div>
