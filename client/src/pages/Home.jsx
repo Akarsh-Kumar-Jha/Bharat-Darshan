@@ -98,39 +98,63 @@ function Home() {
   {/* Left Side */}
   <div className="w-full h-[100%] md:w-[50%] flex flex-col justify-between items-center">
     {/* Navbar */}
-    <div className="flex justify-between items-center h-[10vh] w-full px-4 sm:px-5 mt-3 sm:mt-5">
-      <div className="md:h-[100px] md:w-[150px] sm:w-24 sm:h-12">
-        <img
-          className="w-[100%] h-[100%] object-cover"
-          src="https://res.cloudinary.com/dlnzbkyit/image/upload/v1758636663/Gemini_Generated_Image_9odpi09odpi09odp__1_-removebg-preview_eu3myl.png"
-          alt="Logo"
-        />
-      </div>
+   <div className="flex justify-between items-center h-[10vh] w-full px-4 sm:px-5 mt-3 sm:mt-5">
+  {/* Logo */}
+  <div className="h-10 w-20 sm:h-12 sm:w-28 md:h-[100px] md:w-[150px]">
+    <img
+      className="w-full h-full object-cover"
+      src="https://res.cloudinary.com/dlnzbkyit/image/upload/v1758636663/Gemini_Generated_Image_9odpi09odpi09odp__1_-removebg-preview_eu3myl.png"
+      alt="Logo"
+    />
+  </div>
 
-      <nav className="hidden md:flex flex-row gap-x-6">
-        {navItems.map((item, index) => (
-          <NavLink
-            key={index}
-            to={item.to}
-            className={({ isActive }) =>
-              isActive
-                ? "text-green-400"
-                : "text-sm font-medium text-white hover:text-indigo-400"
-            }
-          >
-            {item.name}
-          </NavLink>
-        ))}
-      </nav>
+  {/* Navigation - hidden on small devices, flex on md+ */}
+  <nav className="hidden md:flex flex-row gap-x-4 lg:gap-x-6">
+    {navItems.map((item, index) => (
+      <NavLink
+        key={index}
+        to={item.to}
+        className={({ isActive }) =>
+          isActive
+            ? "text-green-400 font-semibold"
+            : "text-sm font-medium text-white hover:text-indigo-400"
+        }
+      >
+        {item.name}
+      </NavLink>
+    ))}
+  </nav>
 
-      <div>
-        <img
-          className="w-8 h-8 sm:w-10 sm:h-10 rounded-full"
-          src="https://api.dicebear.com/9.x/initials/svg?seed=Akarsh Kumar"
-          alt="User Avatar"
+  {/* User Avatar */}
+  <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-full overflow-hidden">
+    <img
+      className="w-full h-full object-cover"
+      src="https://api.dicebear.com/9.x/initials/svg?seed=Akarsh Kumar"
+      alt="User Avatar"
+    />
+  </div>
+
+  {/* Optional: Mobile Menu Button */}
+  <div className="md:hidden">
+    <button className="text-white focus:outline-none">
+      {/* Insert hamburger icon here */}
+      <svg
+        className="w-6 h-6"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth={2}
+          d="M4 6h16M4 12h16M4 18h16"
         />
-      </div>
-    </div>
+      </svg>
+    </button>
+  </div>
+</div>
 
     {/* Hero Text */}
     <div className="flex-1 w-[95%] mx-auto flex flex-col justify-center items-start gap-5 sm:gap-7 px-3 sm:px-4">
@@ -156,10 +180,10 @@ function Home() {
       </motion.p>
 
       <div className="flex flex-row gap-4 justify-center items-center">
-        <button className="px-3 py-2 rounded-2xl bg-white font-semibold cursor-pointer hover:bg-white/90 transition-all duration-100 ease-in">
+        <button className="md:px-3 md:py-2 px-2 py-1 rounded-2xl bg-white md:font-semibold font-medium md:text-lg text-xs cursor-pointer hover:bg-white/90 transition-all duration-100 ease-in">
 Get Started
           </button>
-          <button onClick={() => window.location.href = 'https://pujaparikrama.online/'} className="px-4 py-2 rounded-2xl flex flex-row items-center gap-2 justify-center bg-[#FF6B35] font-semibold text-white cursor-pointer hover:bg-orange-400 transition-all duration-100 ease-in">
+          <button onClick={() => window.location.href = 'https://pujaparikrama.online/'} className="md:px-3 md:py-2 px-2 py-1 rounded-2xl  md:font-semibold font-medium md:text-lg text-xs flex flex-row items-center gap-2 justify-center bg-[#FF6B35] text-white cursor-pointer hover:bg-orange-400 transition-all duration-100 ease-in">
 Experience Our Product: Puja-Parikrama <MdArrowOutward />
           </button>
 
@@ -248,23 +272,41 @@ Experience Our Product: Puja-Parikrama <MdArrowOutward />
 
 
 
-<section ref={destRef} className="min-h-screen relative mt-12 w-full flex flex-col items-center justify-center overflow-hidden">
-  <div className="w-full md:w-[50%] flex flex-col justify-center items-center gap-y-5 py-2 mb-7">
-      <motion.h2
+<section
+  ref={destRef}
+  className="min-h-screen relative mt-12 w-full flex flex-col items-center justify-center overflow-hidden px-4 sm:px-6"
+>
+  {/* Heading */}
+  <div className="w-full md:w-[50%] flex flex-col justify-center items-center gap-y-3 sm:gap-y-5 py-2 mb-7">
+    <motion.h2
       initial={{ opacity: 0, x: -100 }}
       animate={destInView ? { opacity: 1, x: 0 } : {}}
-      transition={{ duration: 1.2 }} 
-      className="text-3xl md:text-5xl selection:text-green-400 font-bold text-center text-white tracking-tighter">“Celebrate the Colors of <span className="text-[#FF6B35]">India</span>”</motion.h2>
-      <motion.p
+      transition={{ duration: 1.2 }}
+      className="text-2xl sm:text-3xl md:text-5xl selection:text-green-400 font-bold text-center text-white tracking-tighter"
+    >
+      “Celebrate the Colors of <span className="text-[#FF6B35]">India</span>”
+    </motion.h2>
+    <motion.p
       initial={{ opacity: 0 }}
       animate={destInView ? { opacity: 1 } : {}}
       transition={{ duration: 1.2 }}
-      className="text-xl md:text-2xl text-center text-stone-400 max-w-3xl">With Bharat Darshan, experience India’s rich traditions, vibrant festivals, and timeless celebrations.</motion.p>
+      className="text-base sm:text-lg md:text-2xl text-center text-stone-400 max-w-full sm:max-w-2xl md:max-w-3xl"
+    >
+      With Bharat Darshan, experience India’s rich traditions, vibrant festivals, and timeless celebrations.
+    </motion.p>
   </div>
+
+  {/* Focus Cards */}
+  <div className="w-full md:w-[90%] flex justify-center items-center">
     <FocusCards cards={festivalCards} />
-<footer className="w-full h-[8vh] flex justify-center items-center mt-5 mb-5">
- <div className="text-center text-white my-auto text-xl bg-black/60 border-2 border-[#FF6B35] w-fit px-3 py-2 rounded-2xl">Made with ❤️ by Team Code Sanskriti</div>
-</footer>
+  </div>
+
+  {/* Footer */}
+  <footer className="w-full flex justify-center items-center mt-5 mb-5">
+    <div className="text-center text-white text-base sm:text-lg md:text-xl bg-black/60 border-2 border-[#FF6B35] w-fit px-3 py-2 rounded-2xl">
+      Made with ❤️ by Team Code Sanskriti
+    </div>
+  </footer>
 </section>
     </motion.div>
   );
